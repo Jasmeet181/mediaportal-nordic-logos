@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg28" width="211.67mm" height="135.05mm" version="1.1" viewBox="0 0 211.67 135.05" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata id="metadata34">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs id="defs32">
+  <clipPath id="clipPath16526">
+   <path id="path16524" d="m244.43 504.13h19.191v12.245h-19.191z"/>
+  </clipPath>
+ </defs>
+ <g id="g16520" transform="matrix(11.03 0 0 -11.03 -2695.9 5695.4)">
+  <g id="g16522" clip-path="url(#clipPath16526)">
+   <g id="g16528" transform="translate(244.43 516.38)">
+    <path id="path16530" d="m0 0v-8.589h16.77s-0.892 0.841 0.356 1.351c0 0-0.637 0.688 0.128 1.07 0 0 0.306 0.179 0.637 0.051 0 0 0.119 0.408 0.454 0.488 0.473 0.114 0.721-0.164 0.846-0.386v6.015z" fill="#e89813"/>
+   </g>
+   <g id="g16532" transform="translate(246.37 509.26)">
+    <path id="path16534" d="m0 0h1.147v3.67l1.402-2.676h0.662l1.402 2.676v-3.67h1.096v5.607h-1.147l-1.708-3.16-1.605 3.16h-1.249z" fill="#fff"/>
+   </g>
+   <g id="g16536" transform="translate(254.47 511.46)">
+    <path id="path16538" d="m0 0h1.631l-0.803 2.217zm-1.835-2.192 2.217 5.607h0.892l2.218-5.607h-1.173l-0.56 1.402h-1.912l-0.535-1.402z" fill="#fff"/>
+   </g>
+   <g id="g16540" transform="translate(257.22 514.87)">
+    <path id="path16542" d="m0 0v-0.917h1.81v-4.69h1.095v4.664h1.835v0.943z" fill="#fff"/>
+   </g>
+   <g id="g16544" transform="translate(244.44 507.19)">
+    <path id="path16546" d="m0 0v-3.061h0.483v0.924l0.496 0.482 1.048-1.406h0.483l-1.255 1.668 1.2 1.393h-0.497l-1.475-1.613v1.613z" fill="#dddbd9"/>
+   </g>
+   <g id="g16548" transform="translate(248.79 505.29)">
+    <path id="path16550" d="m0 0-0.496 1.379-0.509-1.379zm-1.917-1.158 1.241 3.061h0.386l1.214-3.061h-0.497l-0.317 0.827h-1.199l-0.29-0.827h-0.579" fill="#dddbd9"/>
+   </g>
+   <g id="g16552" transform="translate(249.99 504.13)">
+    <path id="path16554" d="m0 0h0.483v2.138l1.737-2.138h0.386v3.061h-0.482v-2.178l-1.738 2.178h-0.386z" fill="#dddbd9"/>
+   </g>
+   <g id="g16556" transform="translate(254.84 505.29)">
+    <path id="path16558" d="m0 0-0.496 1.379-0.509-1.379zm-1.917-1.158 1.241 3.061h0.386l1.214-3.061h-0.497l-0.317 0.827h-1.199l-0.29-0.827h-0.579" fill="#dddbd9"/>
+   </g>
+   <g id="g16560" transform="translate(256.02 507.19)">
+    <path id="path16562" d="m0 0h0.496v-2.634h1.637v-0.427h-2.096z" fill="#dddbd9"/>
+   </g>
+   <g id="g16564" transform="translate(258.51 507.19)">
+    <path id="path16566" d="m0 0h2.032v-0.418h-1.554v-0.884h1.352v-0.385h-1.352v-0.956h1.591v-0.418h-2.069z" fill="#dddbd9"/>
+   </g>
+   <g id="g16568" transform="translate(261.04 504.13)">
+    <path id="path16570" d="m0 0h0.469v2.147l1.719-2.147h0.396v3.061h-0.479v-2.174l-1.728 2.174h-0.377z" fill="#dddbd9"/>
+   </g>
+  </g>
+ </g>
+</svg>

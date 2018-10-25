@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg11475" width="800" height="210.41" version="1.1" viewBox="0 0 211.67 55.671" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata id="metadata11472">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="g14321" transform="matrix(9.4572 0 0 -9.4572 -5673.1 3954.1)" fill="#f58500">
+  <g id="g3584" transform="translate(599.87,418.1)">
+   <path id="path3586" d="m0 0v-5.86h1.653l-6e-3 1.895h1.622v1.593l-1.61 4e-3 1e-3 0.766 1.975 3e-3 -0.111 1.599z" fill="#f58500"/>
+  </g>
+  <g id="g3588" transform="translate(611.4,418.09)">
+   <path id="path3590" d="m0 0-0.689-1.262-0.675 1.262h-1.872l1.635-2.822-1.729-3.017 1.813-6e-3 0.808 1.483 0.814-1.477h1.864l-1.763 3.041 1.605 2.798z" fill="#f58500"/>
+  </g>
+  <g id="g3600" transform="translate(606.2,413.52)">
+   <path id="path3602" d="m0 0c-0.262 0-0.476 0.215-0.476 0.482v2.336c0 0.265 0.215 0.505 0.476 0.505 0.263 0 0.49-0.24 0.49-0.507v-2.34c0-0.266-0.229-0.476-0.49-0.476m-5e-3 4.493c-1.545 3e-3 -2.793-1.275-2.793-2.851 0-1.572 1.248-2.845 2.793-2.846 1.535 1e-3 2.789 1.274 2.789 2.846 0 1.576-1.254 2.854-2.789 2.851" fill="#f58500"/>
+  </g>
+ </g>
+ <g id="g14329" transform="matrix(9.4572 0 0 -9.4572 -5673.1 3954.1)" fill="#fff">
+  <g id="g3604" transform="translate(618.75,413.94)">
+   <path id="path3606" d="m0 0v1.046h-1.609v-1.046h-0.469v2.433h0.469v-1.005h1.609v1.005h0.469v-2.433z" fill="#fff"/>
+  </g>
+  <g id="g3608" transform="translate(620.82,415.99)">
+   <path id="path3610" d="m0 0h-0.733v-1.668h0.768c0.57 0 0.938 0.226 0.938 0.837 0 0.622-0.407 0.831-0.973 0.831m0.066-2.051h-1.251v2.433h1.185c0.799 0 1.429-0.333 1.429-1.213 0-0.851-0.567-1.22-1.363-1.22" fill="#fff"/>
+  </g>
+  <path id="path3612" d="m614.86 412.21h-0.31v5.874h0.31z"/>
+ </g>
+</svg>

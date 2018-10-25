@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg81" width="383.98" height="435.4" version="1.1" viewBox="0 0 383.98 435.4" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata id="metadata85">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs id="defs39">
+  <linearGradient id="linear-gradient" x1="116.35" x2="309.69" y1="404.94" y2="190.22" gradientTransform="translate(-.015687 -.42013)" gradientUnits="userSpaceOnUse">
+   <stop id="stop4" stop-color="blue" offset="0"/>
+   <stop id="stop6" stop-color="#0009fc" offset=".08"/>
+   <stop id="stop8" stop-color="#0021f5" offset=".22"/>
+   <stop id="stop10" stop-color="#0049e8" offset=".4"/>
+   <stop id="stop12" stop-color="#0080d7" offset=".6"/>
+   <stop id="stop14" stop-color="#00c6c1" offset=".83"/>
+   <stop id="stop16" stop-color="#00ffaf" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linear-gradient-2" x1="154.61" x2="387.43" y1="368.03" y2="109.45" gradientTransform="translate(-.015687 -.42013)" gradientUnits="userSpaceOnUse">
+   <stop id="stop19" stop-color="#00ffaf" offset="0"/>
+   <stop id="stop21" stop-color="blue" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linear-gradient-3" x2="323.16" y1="173.48" y2="173.48" gradientTransform="translate(-.015687 -.42013)" gradientUnits="userSpaceOnUse">
+   <stop id="stop24" stop-color="blue" offset="0"/>
+   <stop id="stop26" stop-color="#0039ed" offset=".17"/>
+   <stop id="stop28" stop-color="#007fd7" offset=".4"/>
+   <stop id="stop30" stop-color="#00b6c6" offset=".6"/>
+   <stop id="stop32" stop-color="#00deb9" offset=".78"/>
+   <stop id="stop34" stop-color="#00f6b2" offset=".92"/>
+   <stop id="stop36" stop-color="#00ffaf" offset="1"/>
+  </linearGradient>
+ </defs>
+ <title id="title41">Asset 1</title>
+ <path id="path43" class="cls-1" d="m51.984 346.58h311q21-0.16 21-18.79v-61.81q0-18.64-21.06-18.75h-310.94z" fill="url(#linear-gradient)"/>
+ <path id="path45" class="cls-2" d="m219.41 51.16v363.18q0.12 21.06 18.76 21.06h66.22q18.63 0 18.75-21.06v-363.18z" fill="url(#linear-gradient-2)"/>
+ <path id="path47" class="cls-3" d="m51.884 346.58a52.28 52.28 0 0 1-38.33-87.4l218.2-242.38a52.42 52.42 0 0 1 77.82 70.24l-218.2 242.34a52.49 52.49 0 0 1-39.49 17.2z" fill="url(#linear-gradient-3)"/>
+</svg>

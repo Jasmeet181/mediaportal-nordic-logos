@@ -1,0 +1,4658 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Mappings>
+<!-- ******************************************************************** -->
+	<TV>
+		<Channel>
+			<Item Name="24 Horas">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>24 Horas.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="24Corren">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>24Corren.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="24Nordjyske">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>24Nordjyske.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="24Norrbotten">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>24Norrbotten.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="24nt Television">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>24nt Television.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Abu Dhabi TV">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Abu Dhabi TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="3sat">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>3sat.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="6'eren HD">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Full Name (Nordic)</Provider>">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>6eren HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="6'eren">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>6eren.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Adult Channel">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Adult Channel.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Aito Iskelma Harju and Pontinen">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Aito Iskelma Harju and Pontinen.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Al Aoula">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Al Aoula.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Al Jazeera Channel">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Al Jazeera Channel.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Al Jazeera">
+				<Provider>Boxer TV Access</Provider>
+			</Item>
+			<Item Name="Al Jazeera English">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Al Jazeera English.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Al Masriyah">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Al Masriyah.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="AlfaTV">
+				<Provider>Digita</Provider>
+				<Provider>Full Name (Nordic)</Provider>">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>AlfaTV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Animal Planet HD">
+				<Provider>Boxer TV Access</Provider>
+				<Provider>Full Name (Nordic)</Provider>">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>Animal Planet HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Animal Planet">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Animal Planet.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ANTV">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>ANTV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Arte HD">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Arte HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ATG Live">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>ATG Live.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ATV Avrupa">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>ATV Avrupa.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Auto Motor og Sport TV">
+				<Provider>Full Name (Nordic)</Provider>">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>Auto Motor og Sport TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="AVA">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>AVA.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Axess TV">
+				<Provider>Boxer TV Access</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Axess TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="BabyTV">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>BabyTV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="BBC Brit HD (N)">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="BBC Brit HD">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="BBC Brit">
+				<Provider>Boxer TV Access</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>BBC Brit.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="BBC Earth HD">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>BBC Earth HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="BBC Earth">
+				<Provider>Boxer TV Access</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>BBC Earth.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="BBC World News">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Boxer TV Access</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="BBC World">
+				<Provider>Astra 4.8E</Provider>
+			</Item>
+			<File>BBC World News.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Bein Gurme">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Bein Gurme.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Bloomberg Television">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<Item Name="Bloomberg">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>Bloomberg Television.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Blue Hustler">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>Blue Hustler.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Boomerang">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Boxer TV Access</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>Boomerang.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Borne og Ungdoms TV">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Borne og Ungdoms TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Boxer">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Boxer.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="BrunstadTV">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>BrunstadTV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="C More First HD">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>C More First HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="C More First">
+				<Provider>Boxer TV Access</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>C More First.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="C More Fotboll HD/Hockey HD/Stars HD">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<Item Name="C More Fotboll/Hockey/Stars HD">
+				<Provider>Boxer TV Access</Provider>
+			</Item>
+			<File>C More Fotboll HD Hockey HD Stars HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="C More Fotboll HD">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="Cmore Fotboll HD">
+				<Provider>Astra 4.8E</Provider>
+			</Item>
+			<File>C More Fotboll HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="C More Fotboll">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>C More Fotboll.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="C More Golf HD (D)">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="C More Golf HD">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="Cmore Golf HD">
+				<Provider>Astra 4.8E</Provider>
+			</Item>
+			<File>C More Golf HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="C More Golf/SF Kanalen">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<Item Name="C More Golf/SF-Kanalen">
+				<Provider>Boxer TV Access</Provider>
+			</Item>
+			<File>C More Golf SF Kanalen.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="C More Golf">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>C More Golf.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="C More Hits HD">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>C More Hits HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="C More Hits">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>C More Hits.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="C More Hockey HD">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="Cmore Hockey HD">
+				<Provider>Astra 4.8E</Provider>
+			</Item>
+			<File>C More Hockey HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="C More Hockey">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>C More Hockey.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="C More Live 2 HD">
+				<Provider>Full Name (Nordic)</Provider>">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>C More Live 2 HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="C More Live 2">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>C More Live 2.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="C More Live 3 HD">
+				<Provider>Full Name (Nordic)</Provider>">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>C More Live 3 HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="C More Live 3">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>C More Live 3.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="C More Live 4 HD">
+				<Provider>Full Name (Nordic)</Provider>">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>C More Live 4 HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="C More Live 4">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>C More Live 4.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="C More Live 5 HD">
+				<Provider>Full Name (Nordic)</Provider>">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>C More Live 5 HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="C More Live 5">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>C More Live 5.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="C More Live HD">
+				<Provider>Full Name (Nordic)</Provider>">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="Cmore Live HD">
+				<Provider>Astra 4.8E</Provider>
+			</Item>
+			<File>C More Live HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="C More Live/Hits">
+				<Provider>Boxer TV Access</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>C More Live Hits.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="C More Live">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>C More Live.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="C More Series HD">
+				<Provider>Full Name (Nordic)</Provider>">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>C More Series HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="C More Series">
+				<Provider>Boxer TV Access</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>C More Series.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="C More Sport HD">
+				<Provider>Full Name (Nordic)</Provider>">
+			</Item>
+			<File>C More Sport HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="C More Sport">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>C More Sport.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="C More Stars HD">
+				<Provider>Full Name (Nordic)</Provider>">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>C More Stars HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="C More Stars">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>C More Stars.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="C More Tennis HD">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>C More Tennis HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="C More Tennis">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>C More Tennis.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Canal 9 DK">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<Item Name="Canal9">
+				<Provider>Astra 4.8E</Provider>
+			</Item>
+			<File>Canal 9 DK.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Canal 9 HD DK">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<Item Name="Canal9 HD (D)">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>Canal 9 HD DK.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Canal Digital">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Canal Digital.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Cartoon Network">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Boxer TV Access</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>Cartoon Network.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="CBS Reality">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>CBS Reality.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="CCTV-4">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>CBS Reality.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="CGTN Documentary">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>CGTN Documentary.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="CGTN">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>CGTN.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Channel One Russia">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Channel One Russia.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="CNBC">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>CNBC.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="CNN International">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="CNN">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Boxer TV Access</Provider>
+			</Item>
+			<File>CNN International.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Colors">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Colors.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Comedy Central HD">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Comedy Central HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Comedy Central (D)">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="Comedy Central (N)">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="Comedy Central (S)">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="Comedy Central Norway">
+				<Provider>Astra 4.8E</Provider>
+			</Item>
+			<Item Name="Comedy Central">
+				<Provider>Boxer TV Access</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Comedy Central.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Dansk Filmskat">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>Dansk Filmskat.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Dantoto">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>Dantoto.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Das Erste HD">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Das Erste HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Das Erste">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Das Erste.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Deutsche Welle">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<Item Name="DW English">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>Deutsche Welle.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Deutsches Musik Fernsehen">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Deutsches Musik Fernsehen.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Di TV">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Di TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="0700 1 1111 Deitti">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Digiviihde.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Discovery Channel HD">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<Item Name="Discovery HD (D) syn">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="Discovery HD (D)">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="Discovery HD (N)">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="Discovery HD (S)">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="Discovery HD syntolkning">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>Discovery Channel HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Disc. Channel">
+				<Provider>Com Hem</Provider>
+			</Item>
+			<Item Name="Discovery (F)">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="Discovery Channel NO">
+				<Provider>Astra 4.8E</Provider>
+			</Item>
+			<Item Name="Discovery Channel SE">
+				<Provider>Astra 4.8E</Provider>
+			</Item>
+			<Item Name="Discovery Channel">
+				<Provider>Boxer TV Access</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Discovery Channel.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Discovery Science">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>Discovery Science.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Discovery Showcase HD">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Discovery Showcase HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Discovery World">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>Discovery World.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Disney Channel HD">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Disney Channel HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Disney Channel (D)">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="Disney Channel (N)">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="Disney Channel (S/F)">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="Disney Channel NO">
+				<Provider>Astra 4.8E</Provider>
+			</Item>
+			<Item Name="Disney Channel SE">
+				<Provider>Astra 4.8E</Provider>
+			</Item>
+			<Item Name="Disney Channel">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Disney Channel.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Disney Jr">
+				<Provider>Astra 4.8E</Provider>
+			</Item>
+			<Item Name="Disney Junior">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>Disney Junior.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Disney XD HD">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Disney XD HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Disney XD">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Boxer TV Access</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>Disney XD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="DK4 HD">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>DK4 HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="DK4">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>DK4.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Dom Kino">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Dom Kino.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="DR K">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>DR K.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="DR Ramasjang">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>DR Ramasjang.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="DR Ultra">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>DR Ultra.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="DR1 HD">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="DR1">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>DR1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="DR2">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>DR2.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="DR3 HD">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="DR3">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>DR3.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Duna World">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Duna World.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Eesti Televisioon">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Eesti Televisioon.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Eggevisjon">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Eggevisjon.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Empo TV">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Empo TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="English Club TV HD">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>English Club TV HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="EsportsTV HD">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>EsportsTV HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="EsportsTV">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>EsportsTV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Estradi 2020">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<Item Name="Estradi">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Estradi.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Euro D">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Euro D.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Euro Star">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Euro Star.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Euronews HD">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Euronews HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Euronews">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Euronews.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Eurosport 1 HD (N)">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="Eurosport 1 HD (S)">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="Eurosport 1 HD">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="Eurosport Nordic">
+				<Provider>Sappa</Provider>
+			</Item>
+			<File>Eurosport 1 HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Eurosport 1">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<Item Name="Eurosport">
+				<Provider>Boxer TV Access</Provider>
+			</Item>
+			<File>Eurosport 1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Eurosport 2 HD (D)">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="Eurosport 2 HD (S)">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="Eurosport 2 HD">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>Eurosport 2 HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Eurosport 2">
+				<Provider>Boxer TV Access</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<Item Name="Eurosport DK">
+				<Provider>Astra 4.8E</Provider>
+			</Item>
+			<File>Eurosport 2.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Eurosport Norge HD">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>Eurosport Norge HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Eurosport Norge">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Eurosport Norge.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Eurosport Pluss 1">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>Eurosport Pluss 1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Eurosport Pluss 10">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Eurosport Pluss 10.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Eurosport Pluss 11">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Eurosport Pluss 11.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Eurosport Pluss 12">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Eurosport Pluss 12.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Eurosport Pluss 2">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>Eurosport Pluss 2.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Eurosport Pluss 3">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>Eurosport Pluss 3.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Eurosport Pluss 4">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>Eurosport Pluss 4.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Eurosport Pluss 5">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Eurosport Pluss 5.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Eurosport Pluss 6">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Eurosport Pluss 6.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Eurosport Pluss 7">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Eurosport Pluss 7.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Eurosport Pluss 8">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Eurosport Pluss 8.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Eurosport Pluss 9">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Eurosport Pluss 9.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Expressen TV">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Expressen TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Extreme Sports">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Extreme Sports.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="E!">
+				<Provider>Astra 4.8E</Provider>
+			</Item>
+			<Item Name="E! Entertainment">
+				<Provider>Astra 4.8E</Provider>
+			</Item>
+			<Item Name="E">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>E.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Fashion TV">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Fashion TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Fatstone TV">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>Fatstone TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Fem HD">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>Fem HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Fem">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Fem.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Fight Sports HD">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Fight Sports HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Fight Sports">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Fight Sports.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Folketinget">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Folketinget.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Fox HD (N)">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="Fox HD">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Fox HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Fox (S)">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="Fox Nor">
+				<Provider>Astra 4.8E</Provider>
+			</Item>
+			<Item Name="Fox Swe">
+				<Provider>Astra 4.8E</Provider>
+			</Item>
+			<Item Name="Fox">
+				<Provider>Boxer TV Access</Provider>
+				<Provider>Digita</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Fox.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="France 2">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>France 2.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="France 3">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>France 3.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="France 24 - English">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>France 24 - English.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="France 24 - Francais">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>France 24 - Francais.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Frii">
+				<Provider>Digita</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Frii.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Frikanalen">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Frikanalen.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Fuel TV HD">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Fuel TV HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Fuel TV">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Fuel TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="FVN TV">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>FVN TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="God Channel">
+				<Provider>Astra 4.8E</Provider>
+			</Item>
+			<Item Name="God TV">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>God TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Gospel Channel Europe">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="Gospel Channel">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>>
+			<File>Gospel Channel.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="H2 HD">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>H2 HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="H2">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>H2.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Hayat Plus">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Hayat Plus.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Hayat">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Hayat.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="HBO Nordic">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>HBO Nordic.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Hero">
+				<Provider>Digita</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Hero.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="History HD (S)">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="History HD">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>History HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="History">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Boxer TV Access</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>History.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Horse &amp; Country TV">
+				<Provider>Boxer TV Access</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>Horse and Country.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="HRT 1">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>HRT 1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Hustler TV HD">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Hustler TV HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Hustler TV">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>Hustler TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ID Investigation Discovery (D)">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="ID Investigation Discovery (S)">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="ID Investigation Discovery">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="Investigation Discovery">
+				<Provider>Boxer TV Access</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Investigation Discovery.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Iqraa">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Iqraa.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ITV OJ">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>ITV OJ.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Jim">
+				<Provider>Digita</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>Jim.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Jordan TV">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Jordan TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Kabel Eins">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Kabel Eins.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Kanal 10 Norge">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="Kanal 10">
+				<Provider>Astra 4.8E</Provider>
+			</Item>
+			<File>Kanal 10 Norge.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Kanal 11 HD - Text">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="Kanal 11 HD syntolkning">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="Kanal 11 HD">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>Kanal 11 HD SE.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Kanal 11 (S)">
+				<Provider>Astra 4.8E</Provider>
+			</Item>
+			<Item Name="Kanal 11">
+				<Provider>Boxer TV Access</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Kanal 11 SE.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Kanal 4 HD syn">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="Kanal 4 HD">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>Kanal 4 HD DK.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Kanal 4 (D)">
+				<Provider>Astra 4.8E</Provider>
+			</Item>
+			<Item Name="Kanal 4 DK">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Kanal 4 DK.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Kanal 5 HD (D) syn">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="Kanal 5 HD (D)">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="Kanal 5 HD DK">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Kanal 5 HD DK.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Kanal 5 DK">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<Item Name="Kanal 5 Undertekster">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>Kanal 5 DK.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Kanal 5 HD (S) - Text">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="Kanal 5 HD (S)">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="Kanal 5 HD SE">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<Item Name="Kanal 5 HD syntolkning">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="Kanal 5 HD">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Boxer TV Access</Provider>
+			</Item>
+			<File>Kanal 5 HD SE.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Kanal 5 SE">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<Item Name="Kanal 5 Skåne">
+				<Provider>Boxer TV Access</Provider>
+			</Item>
+			<Item Name="Kanal 5 Stockholm">
+				<Provider>Boxer TV Access</Provider>
+			</Item>
+			<Item Name="Kanal 5 ">
+				<Provider>Sappa</Provider>
+			</Item>
+			<File>Kanal 5 SE.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Kanal 7 Avrupa">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Kanal 7 Avrupa.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Kanal 7 TR">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Kanal 7 TR.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Kanal 9 HD - Text">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="Kanal 9 HD SE">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<Item Name="Kanal 9 HD syntolkning">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="Kanal 9 HD">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>Kanal 9 HD SE.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Kanal 9 (S)">
+				<Provider>Astra 4.8E</Provider>
+			</Item>
+			<Item Name="Kanal 9">
+				<Provider>Boxer TV Access</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Kanal 9 SE.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Kanal Hovedstaden">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Kanal Hovedstaden.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Kanal Syd">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Kanal Syd.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Kunskapskanalen HD - Text">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="Kunskapskanalen HD">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>Kunskapskanalen HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Kunskapskanalen">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Boxer TV Access</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Kunskapskanalen.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Kurdistan TV">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Kurdistan TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Kutonen">
+				<Provider>Digita</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Kutonen.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Kuukauden Kanava">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>Kuukauden Kanava.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Las Estrellas">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Las Estrellas.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="LifeStyle TV">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<Item Name="LifeStyleTV">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>LifeStyle TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Liv">
+				<Provider>Digita</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>Liv.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="M2">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>M2.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Matkanalen">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>Matkanalen.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Max HD">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>Max HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Max">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Max.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="MBC 1">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>MBC 1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Mezzo Live HD">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Mezzo Live HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Mezzo">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Mezzo.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Min Bio">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Min Bio.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Miracle Channel">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Miracle Channel.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Motorvision TV HD">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Motorvision TV HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Motorvision TV">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>Motorvision TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="MTV Dance">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>MTV Dance.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="MTV Hits">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>MTV Hits.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="MTV Live HD">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>MTV Live HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="MTV Music">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>MTV Music.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="MTV Rocks">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>MTV Rocks.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="MTV (S)">
+				<Provider>Astra 4.8E</Provider>
+			</Item>
+			<Item Name="MTV DK">
+				<Provider>Astra 4.8E</Provider>
+			</Item>
+			<Item Name="MTV">
+				<Provider>Boxer TV Access</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>MTV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="MTV3 HD">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>MTV3 HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="MTV3">
+				<Provider>Digita</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>MTV3.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="My Zen TV">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>My Zen TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Nat Geo People">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Nat Geo People.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Nat Geo Wild HD">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="NatGeo Wild">
+				<Provider>Astra 4.8E</Provider>
+			</Item>
+			<File>Nat Geo Wild HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Nat Geo Wild">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Nat Geo Wild.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Nat Geo HD (D)">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="Nat Geo HD (N)">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="Nat Geo HD (S/F)">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="NatGeo HD">
+				<Provider>Astra 4.8E</Provider>
+			</Item>
+			<Item Name="National Geographic HD">
+				<Provider>Boxer TV Access</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>National Geographic HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Nat Geo Norway">
+				<Provider>Astra 4.8E</Provider>
+			</Item>
+			<Item Name="National Geographic (D)">
+				<Provider>Astra 4.8E</Provider>
+			</Item>
+			<Item Name="National Geographic S">
+				<Provider>Astra 4.8E</Provider>
+			</Item>
+			<Item Name="National Geographic">
+				<Provider>Digita</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>National Geographic.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Nautical Channel HD">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Nautical Channel HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NDR HD">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>NDR HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Nelonen HD">
+				<Provider>Digita</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Nelonen HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Nelonen">
+				<Provider>Digita</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>Nelonen.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Netflix">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Netflix.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NFL Network">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>NFL Network.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NHK World Japan">
+				<Provider>Astra 4.8E</Provider>
+			</Item>
+			<Item Name="NHK World TV">
+				<Provider>Astra 4.8E</Provider>
+			</Item>
+			<Item Name="NHK World">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>NHK World.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Nick Jr. HD">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Nick Jr HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Nick Jr.">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="Nick Jr">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Boxer TV Access</Provider>
+			</Item>
+			<File>Nick Jr.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Nickelodeon HD">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Nickelodeon HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Nick DK">
+				<Provider>Astra 4.8E</Provider>
+			</Item>
+			<Item Name="Nickelodeon (D)">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="Nickelodeon (N)">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="Nickelodeon (S)">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="Nickelodeon Norge">
+				<Provider>Astra 4.8E</Provider>
+			</Item>
+			<Item Name="Nickelodeon SE">
+				<Provider>Astra 4.8E</Provider>
+			</Item>
+			<Item Name="Nickelodeon">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Boxer TV Access</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Nickelodeon.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Nick Toons">
+				<Provider>Astra 4.8E</Provider>
+			</Item>
+			<Item Name="Nicktoons">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>Nicktoons.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Nordlys TV">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Nordlys TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NRK Super / NRK3 HD">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="NRK Super HD/NRK 3 HD">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>NRK Super HD NRK 3 HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NRK Super / NRK3 lydtekst">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="NRK Super/NRK 3">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<Item Name="NRKSuper/NRK3lydtekst">
+				<Provider>Astra 4.8E</Provider>
+			</Item>
+			<File>NRK Super NRK 3.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NRK Tegnspråk">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>NRK Tegnsprak.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NRK1 HD">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>NRK1 HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NRK1 Lydtekst">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="NRK1 Midtnytt">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="NRK1 Møre og Romsdal">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="NRK1 Nordland">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="NRK1 Nordnytt">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="NRK1 Østafjells">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="NRK1 Østfold">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="NRK1 Østnytt">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="NRK1 Rogaland">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="NRK1 Sørlandet">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="NRK1 Vestlandsrevyen">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="NRK1">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>NRK1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NRK2 HD">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>NRK2 HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NRK2 Lydtekst">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="NRK2">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>NRK2.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NTV Mir">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>NTV Mir.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="OBN">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>OBN.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Lokalkanal 1">
+				<Provider>Com Hem</Provider>
+			</Item>
+			<Item Name="Oppna Kanalen Goteborg">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Oppna Kanalen Goteborg.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Ostjysk TV">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Ostjysk TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Outdoor Channel HD">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Outdoor Channel HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Outdoor Channel">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Outdoor Channel.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="OutTV">
+				<Provider>Com Hem</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>OutTV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Pink Plus">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Pink Plus.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Pixel TV">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Pixel TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Playboy TV">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Playboy TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Pro TV International">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Pro TV International.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ProSieben">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>ProSieben.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="PTV Prime">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>PTV Prime.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Rai 1">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Rai 1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Rai 2">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Rai 2.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Rai 3">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Rai 3.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Rai News24">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Rai News24.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Raisio Kanava">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Raisio Kanava.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Rikstoto Direkte HD">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="Rikstoto Direkte">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Rikstoto Direkte.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Rishtey Europe">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Rishtey Europe.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RT">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<Item Name="Russia Today">
+				<Provider>Astra 4.8E</Provider>
+			</Item>
+			<File>RT.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RTCG">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>RTCG.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RTK1">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>RTK1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RTL 2">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>RTL 2.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RTL HD">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>RTL HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RTL">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>RTL.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RTP Internacional">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>RTP Internacional.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RTR Planeta">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>RTR Planeta.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RTS Svet">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>RTS Svet.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RTSH 1">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>RTSH 1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RuutuPlus Dokkarit HD">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>RuutuPlus Dokkarit HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RuutuPlus Dokkarit">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>RuutuPlus Dokkarit.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RuutuPlus Lapset HD">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>RuutuPlus Lapset HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RuutuPlus Lapset">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>RuutuPlus Lapset.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RuutuPlus Leffat ja Sarjat HD">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>RuutuPlus Leffat ja Sarjat HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RuutuPlus Leffat ja Sarjat">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>RuutuPlus Leffat ja Sarjat.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RuutuPlus Urheilu 1 HD">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>RuutuPlus Urheilu 1 HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RuutuPlus Urheilu 1">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>RuutuPlus Urheilu 1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RuutuPlus Urheilu 2 HD">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>RuutuPlus Urheilu 2 HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RuutuPlus Urheilu 2">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>RuutuPlus Urheilu 2.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RuutuPlus Urheilu 3 HD">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>RuutuPlus Urheilu 3 HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RuutuPlus Urheilu 3">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>RuutuPlus Urheilu 3.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RuutuPlus Urheilu 4 HD">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>RuutuPlus Urheilu 4 HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RuutuPlus Urheilu 4">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>RuutuPlus Urheilu 4.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RuutuPlus Urheilu 5 HD">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>RuutuPlus Urheilu 5 HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RuutuPlus Urheilu 5">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>RuutuPlus Urheilu 5.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RuutuPlus Urheilu 6 HD">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>RuutuPlus Urheilu 6 HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RuutuPlus Urheilu 6">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>RuutuPlus Urheilu 6.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RuutuPlus Urheilu 7 HD">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>RuutuPlus Urheilu 7 HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RuutuPlus Urheilu 7">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>RuutuPlus Urheilu 7.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RuutuPlus Urheilu 8 HD">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>RuutuPlus Urheilu 8 HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RuutuPlus Urheilu 8">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>RuutuPlus Urheilu 8.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RuutuPlus Urheilu HD">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>RuutuPlus Urheilu HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RuutuPlus Urheilu">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>RuutuPlus Urheilu.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RUV">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>RUV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sappakanalen">
+				<Provider>Sappa</Provider>
+			</Item>
+			<Item Name="Sappa">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Sappa.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sat1 HD">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Sat1 HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sat7">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Sat7.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SF Kanalen">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>SF Kanalen.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Show TV">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Show TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Silkeborg Regionale TV">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Silkeborg Regionale TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sjuan HD">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>Sjuan HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sjuan">
+				<Provider>Boxer TV Access</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Sjuan.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sky News">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Sky News.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SBN Global">
+				<Provider>Astra 4.8E</Provider>
+			</Item>
+			<Item Name="SBN">
+				<Provider>Astra 4.8E</Provider>
+			</Item>
+			<Item Name="Sonlife Broadcasting Network">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Sonlife Broadcasting Network.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sony Entertainment Television">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Sony Entertainment Television.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sport Expressen TV">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Sport Expressen TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sportkanalen HD">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>Sportkanalen HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sportkanalen">
+				<Provider>Boxer TV Access</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Sportkanalen.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Star Bharat">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Star Bharat.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Star Gold">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Star Gold.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Star Plus">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Star Plus.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Star Vijay">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Star Vijay.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Stingray Brava">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Stingray Brava.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Stingray Djazz">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Stingray Djazz.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Stofa">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Stofa.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sub">
+				<Provider>Digita</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>Sub.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sudan TV">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Sudan TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Super RTL">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Super RTL.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SVT Barnkanalen HD/SVT24 HD">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<Item Name="SVT B / SVT 24 HD">
+				<Provider>Sappa</Provider>
+			</Item>
+			<Item Name="SVTB/SVT24 HD">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="SVTB/SVT24 HD - Text">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>SVT Barnkanalen HD SVT24 HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SVT Barnkanalen HD">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>SVT Barnkanalen HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Barnkanalen/SVT24">
+				<Provider>Boxer TV Access</Provider>
+			</Item>
+			<Item Name="SVT B / SVT 24">
+				<Provider>Sappa</Provider>
+			</Item>
+			<Item Name="SVT Barnkanalen/SVT24">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<Item Name="SVTB">
+				<Provider>Astra 4.8E</Provider>
+			</Item>
+			<File>SVT Barnkanalen SVT24.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SVT Barnkanalen">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>SVT Barnkanalen.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SVT1 HD - Text">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="SVT1 HD Stockholm">
+				<Provider>Boxer TV Access</Provider>
+			</Item>
+			<Item Name="SVT1 HD">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>SVT1 HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SVT 1">
+				<Provider>Sappa</Provider>
+			</Item>
+			<Item Name="SVT1 Dalarna">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="SVT1 Gävleborg">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="SVT1 Jämtland">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="SVT1 Jönköping">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="SVT1 Norrbotten">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="SVT1 Örebro">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="SVT1 Öst">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="SVT1 Skåne">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="SVT1 Småland">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="SVT1 Sörmland">
+				<Provider>Boxer TV Access</Provider>
+			</Item>
+			<Item Name="SVT1 Stockholm">
+				<Provider>Boxer TV Access</Provider>
+			</Item>
+			<Item Name="SVT1 Talande Text">
+				<Provider>Com Hem</Provider>
+			</Item>
+			<Item Name="SVT1 Värmland">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="SVT1 Väst">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="SVT1 Västerbotten">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="SVT1 Västernorrland">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="SVT1">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>SVT1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SVT2 HD - Text">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="SVT2 HD Stockholm">
+				<Provider>Boxer TV Access</Provider>
+			</Item>
+			<Item Name="SVT2 HD">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>SVT2 HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SVT 2">
+				<Provider>Sappa</Provider>
+			</Item>
+			<Item Name="SVT2 Dalarna">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="SVT2 Gävleborg">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="SVT2 Jämtland">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="SVT2 Jönköping">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="SVT2 Norrbotten">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="SVT2 Örebro">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="SVT2 Öst">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="SVT2 Skåne">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="SVT2 Småland">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="SVT2 Sörmland">
+				<Provider>Boxer TV Access</Provider>
+			</Item>
+			<Item Name="SVT2 Stockholm">
+				<Provider>Boxer TV Access</Provider>
+			</Item>
+			<Item Name="SVT2 Talande Text">
+				<Provider>Com Hem</Provider>
+			</Item>
+			<Item Name="SVT2 Värmland">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="SVT2 Väst">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="SVT2 Västerbotten">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="SVT2 Västernorrland">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="SVT2">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>SVT2.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SVT24 HD">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>SVT24 HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SVT24">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>SVT24.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Taivas TV7">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Taivas TV7.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TBN Nordic">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>TBN Nordic.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Telenor">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Telenor.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Telia Liiga 1">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>Telia Liiga 1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Telia Liiga 2">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>Telia Liiga 2.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Telia Liiga 3">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>Telia Liiga 3.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Telia Liiga 4">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>Telia Liiga 4.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Telia Liiga 5">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>Telia Liiga 5.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Telia Liiga 6">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>Telia Liiga 6.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Telia Liiga 7">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>Telia Liiga 7.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Telia Liiga Studio">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>Telia Liiga Studio.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Telia">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<Item Name="TST1">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="TST2">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>Telia.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TGRT EU">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>TGRT EU.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Thai TV Global Network">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Thai TV Global Network.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="The Player Channel">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>The Player Channel.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="The Qyou">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>The Qyou.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TLC Danmark syn">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="TLC Danmark">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="TLC DK">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>TLC DK.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TLC FI">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<!-- Conflicts with TLC SE -->
+			<!--
+			<Item Name="TLC">
+				<Provider>Digita</Provider>
+			</Item>
+			-->
+			<File>TLC FI.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TLC HD NO">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<Item Name="TLC Norge HD">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>TLC HD NO.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TLC Sverige HD">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="TLC HD SE">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>TLC HD SE.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TLC NO">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>TLC NO.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TLC SE">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<!-- Conflicts with TLC FI -->
+			<Item Name="TLC">
+				<Provider>Boxer TV Access</Provider>
+			</Item>
+			<File>TLC SE.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TNT Sverige">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="TNT">
+				<Provider>Boxer TV Access</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>TNT.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TotoTV">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>TotoTV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Trace Urban HD">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>Trace Urban HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Trace Urban">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Trace Urban.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Travel Channel">
+				<Provider>Boxer TV Access</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Travel Channel.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Tronder TV">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Tronder TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TRT 1">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>TRT 1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TRT Haber">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>TRT Haber.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TRT Turk">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>TRT Turk.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV 2 / Bornholm">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="TV 2 Bornholm">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<Item Name="TV2 Bornholm">
+				<Provider>Astra 4.8E</Provider>
+			</Item>
+			<File>TV 2 Bornholm.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV 2 Charlie HD">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>TV 2 Charlie HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV 2 Charlie">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<Item Name="TV2 Charlie">
+				<Provider>Astra 4.8E</Provider>
+			</Item>
+			<File>TV 2 Charlie.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV 2 DK">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<Item Name="TV2 Danmark">
+				<Provider>Sappa</Provider>
+			</Item>
+			<File>TV 2 DK.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV 2 Fri HD">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>TV 2 Fri HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV 2 Fri">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<Item Name="TV2 Fri">
+				<Provider>Astra 4.8E</Provider>
+			</Item>
+			<File>TV 2 Fri.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV 2 / Fyn">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="TV 2 Fyn">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<Item Name="TV2 Fyn">
+				<Provider>Astra 4.8E</Provider>
+			</Item>
+			<File>TV 2 Fyn.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV 2 HD (D)">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="TV 2 HD DK">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>TV 2 HD DK.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV 2 Lorry">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<Item Name="TV2 HD Lorry">
+				<Provider>Astra 4.8E</Provider>
+			</Item>
+			<File>TV 2 Lorry.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV 2 News HD">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>TV 2 News HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV 2 News">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<Item Name="TV2 News">
+				<Provider>Astra 4.8E</Provider>
+			</Item>
+			<File>TV 2 News.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV 2 / Østjylland">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="TV 2 Østjylland">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<Item Name="TV2 Østjylland">
+				<Provider>Astra 4.8E</Provider>
+			</Item>
+			<File>TV 2 Ostjylland.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV 2 Sport HD">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>TV 2 Sport HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV 2 Sport">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>TV 2 Sport.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV 2 Zulu HD">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>TV 2 Zulu HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV 2 Zulu">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<Item Name="TV2 Zulu">
+				<Provider>Astra 4.8E</Provider>
+			</Item>
+			<File>TV 2 Zulu.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV 360">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>TV 360.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV Agder">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>TV Agder.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV Chile">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<Item Name="TVN Chile Nordic">
+				<Provider>Astra 4.8E</Provider>
+			</Item>
+			<File>TV Chile.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV Finland">
+				<Provider>Boxer TV Access</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>TV Finland.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV Glad">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>TV Glad.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV Haugaland">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>TV Haugaland.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV Kiosken">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>TV Kiosken.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV 2 / Midt-Vest">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="TV Midt Vest">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<Item Name="TV2 Midt-Vest">
+				<Provider>Astra 4.8E</Provider>
+			</Item>
+			<File>TV Midt Vest.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV Modum">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>TV Modum.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV Malung-Sälen">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>TV Malung-Salen.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV 2 / Øst">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="TV 2 Øst">
+				<Provider>Astra 4.8E</Provider>
+			</Item>
+			<Item Name="TV Øst DK">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>TV Ost DK.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV 2 / Øst">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="TV Øst NO">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>TV Ost NO.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV 2 / Syd">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="TV Syd">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<Item Name="TV2 Syd">
+				<Provider>Astra 4.8E</Provider>
+			</Item>
+			<File>TV Syd.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV Telemark">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>TV Telemark.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV Tonic">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>TV Tonic.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV Vest">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>TV Vest.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV Vision Sverige">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<Item Name="Vision Sverige">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>TV Vision Sverige.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV10 HD">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>TV10 HD SE.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV 10">
+				<Provider>Sappa</Provider>
+			</Item>
+			<Item Name="TV10">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Boxer TV Access</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>TV10 SE.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV12 HD">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Thor 0.8W</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>TV12 HD SE.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV 12">
+				<Provider>Sappa</Provider>
+			</Item>
+			<Item Name="TV12">
+				<Provider>Boxer TV Access</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>TV12 SE.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV 2 HD (N)">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="TV2 HD NO">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<Item Name="TV2 HD">
+				<Provider>Astra 4.8E</Provider>
+			</Item>
+			<File>TV2 HD NO.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV2 Humorkanalen">
+				<Provider>Astra 4.8E</Provider>
+			</Item>
+			<Item Name="TV 2 Humor HD">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="TV2 Humor">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>TV2 Humor.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV 2 Livsstil HD">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="TV 2 Livsstil">
+				<Provider>Astra 4.8E</Provider>
+			</Item>
+			<Item Name="TV2 Livsstil">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>TV2 Livsstil.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV2 NO">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>TV2 NO.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV 2 / Nord">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="TV2 Nord">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>TV2 Nord.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV 2 Nyhetskanalen HD">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="TV2 Nyhetskanalen">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>TV2 Nyhetskanalen.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV2 Sport 1">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>TV2 Sport 1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV 2 Sport 2 HD">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="TV2 Sport 2">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>TV2 Sport 2.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV 2 Sport Premium 2 HD">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="TV2 Sport Premium 2">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>TV2 Sport Premium 2.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV 2 Sport Premium HD">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="TV2 Sport Premium 1">
+				<Provider>Astra 4.8E</Provider>
+			</Item>
+			<Item Name="TV2 Sport Premium">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>TV2 Sport Premium.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV 2 Zebra HD">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="TV2 Zebra HD">
+				<Provider>Astra 4.8E</Provider>
+			</Item>
+			<Item Name="TV2 Zebra">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>TV2 Zebra.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV2Stad">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>TV2Stad.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV3 DK">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<Item Name="TV3 HD (D)">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="TV3 HD Danmark">
+				<Provider>Astra 4.8E</Provider>
+			</Item>
+			<File>TV3 DK.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV3 HD (S) - Text">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="TV3 HD (S)">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="TV3 HD SE">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<Item Name="TV3 HD Stockholm">
+				<Provider>Boxer TV Access</Provider>
+			</Item>
+			<Item Name="TV3 HD">
+				<Provider>Astra 4.8E</Provider>
+			</Item>
+			<File>TV3 HD SE.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV3 Max">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>TV3 Max.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV3 HD (N)">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="TV3 HD NO">
+				<Provider>Astra 4.8E</Provider>
+			</Item>
+			<Item Name="TV3 NO">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>TV3 NO.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV3 Puls HD">
+				<Provider>Astra 4.8E</Provider>
+			</Item>
+			<Item Name="TV3 Puls">
+				<Provider>Full Name (Nordic)</Provider>">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>TV3 Puls.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV 3 ">
+				<Provider>Sappa</Provider>
+			</Item>
+			<Item Name="TV3 SE">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<Item Name="TV3 Skåne">
+				<Provider>Boxer TV Access</Provider>
+			</Item>
+			<Item Name="TV3 Stockholm">
+				<Provider>Boxer TV Access</Provider>
+			</Item>
+			<File>TV3 SE.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV3 Sport DK">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<Item Name="TV3 Sport HD (D)">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<!-- Conflicts with TV3 Sport SE -->
+			<!--
+			<Item Name="TV3 Sport">
+				<Provider>Astra 4.8E</Provider>
+			</Item>
+			-->
+			<File>TV3 Sport DK.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV3 Sport HD SE">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<Item Name="TV3 Sport HD">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>TV3 Sport HD SE.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV3 Sport SE">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<!-- Conflicts with TV3 Sport DK -->
+			<Item Name="TV3 Sport">
+				<Provider>Boxer TV Access</Provider>
+			</Item>
+			<File>TV3 Sport SE.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV3+ HD">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="TV3Plus">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>TV3Plus.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV 4 Fakta">
+				<Provider>Sappa</Provider>
+			</Item>
+			<Item Name="TV4 Fakta - Text">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="TV4 Fakta">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Boxer TV Access</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>TV4 Fakta.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV4 Film - Text">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="TV4 Film">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Boxer TV Access</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>TV4 Film.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV4 Guld">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>TV4 Guld.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV4 HD - Text">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="TV4 HD Malmö">
+				<Provider>Boxer TV Access</Provider>
+			</Item>
+			<Item Name="TV4 HD SE">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<Item Name="TV4 HD Stockholm">
+				<Provider>Boxer TV Access</Provider>
+			</Item>
+			<Item Name="TV4 HD">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>TV4 HD SE.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV 4 ">
+				<Provider>Sappa</Provider>
+			</Item>
+			<Item Name="TV4 Linköping">
+				<Provider>Boxer TV Access</Provider>
+			</Item>
+			<Item Name="TV4 Malmö">
+				<Provider>Boxer TV Access</Provider>
+			</Item>
+			<Item Name="TV4 SE">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<Item Name="TV4 Stockholm">
+				<Provider>Boxer TV Access</Provider>
+			</Item>
+			<File>TV4 SE.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV 4 Sport">
+				<Provider>Sappa</Provider>
+			</Item>
+			<Item Name="TV4 Sport">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>TV4 Sport.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV5">
+				<Provider>Digita</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="TV5 FI">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>TV5 FI.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV5Monde Europe">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>TV5Monde Europe.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV6 HD (S)">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="TV6 HD SE">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<Item Name="TV6 HD Sweden">
+				<Provider>Astra 4.8E</Provider>
+			</Item>
+			<File>TV6 HD SE.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV6 (N)">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="TV6 NO">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>TV6 NO.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV 6">
+				<Provider>Sappa</Provider>
+			</Item>
+			<Item Name="TV6">
+				<Provider>Boxer TV Access</Provider>
+			</Item>
+			<Item Name="TV6 SE">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>TV6 SE.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV8 HD">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Thor 0.8W</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>TV8 HD SE.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV 8">
+				<Provider>Sappa</Provider>
+			</Item>
+			<Item Name="TV8">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Boxer TV Access</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>TV8 SE.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TVE Internacional">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>TVE Internacional.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV Norge HD">
+				<Provider>Astra 4.8E</Provider>
+			</Item>
+			<Item Name="TVNorge HD">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>TVNorge HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TVNorge">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>TVNorge.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TVP Kultura">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>TVP Kultura.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TVP Polonia">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>TVP Polonia.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Uptown Classic">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Uptown Classic.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Uptown Dansk Musik">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Uptown Dansk Musik.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Utrop TV">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Utrop TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="VGTV HD">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="VGTV">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>VGTV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="VH1 Classic">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>VH1 Classic.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="VH1">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Boxer TV Access</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>VH1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Viasat 4 HD">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="Viasat 4">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Viasat 4.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Viasat Explore HD">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Viasat Explore HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Viasat Explore">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Viasat Explore.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="VFActionHD">
+				<Provider>Astra 4.8E</Provider>
+			</Item>
+			<Item Name="Viasat Film Action HD">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Viasat Film Action HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Viasat Film Action">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Viasat Film Action.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Viasat Film Family HD">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Viasat Film Family HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="VFilm Family">
+				<Provider>Astra 4.8E</Provider>
+			</Item>
+			<Item Name="Viasat Film Family">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Viasat Film Family.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="VFilm Hits HD">
+				<Provider>Astra 4.8E</Provider>
+			</Item>
+			<Item Name="Viasat Film Hits HD">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Viasat Film Hits HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Viasat Film Hits">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Viasat Film Hits.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Viasat Film Premiere HD">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Viasat Film Premiere HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Viasat Film Premiere">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Viasat Film Premiere.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Viasat Fotboll HD">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>Viasat Fotboll HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Viasat Fotboll">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Viasat Fotboll.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Viasat Golf HD">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Viasat Golf HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Viasat Golf">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Viasat Golf.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Viasat History HD">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Viasat History HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Viasat History">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Viasat History.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Viasat Hockey HD">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>Viasat Hockey HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Viasat Hockey">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Viasat Hockey.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Viasat Jääkiekko HD">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>Viasat Jaakiekko HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Viasat Jääkiekko">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Viasat Jaakiekko.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Viasat Jalkapallo HD">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>Viasat Jalkapallo HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Viasat Jalkapallo">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Viasat Jalkapallo.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Viasat Motor HD">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>Viasat Motor HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Viasat Motor">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Viasat Motor.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Viasat Nature HD">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Viasat Nature HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Viasat Nature Playboy TV">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Viasat Nature Playboy TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Viasat Nature">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Viasat Nature.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Viasat Series HD">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>Viasat Series HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Viasat Series">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Viasat Series.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Viasat Sport HD">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>Viasat Sport HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Viasat Sport Premium HD">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>Viasat Sport Premium HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Viasat Sport Premium">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Viasat Sport Premium.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Viasat Sport Ultra HD">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Viasat Sport Ultra HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Viasat Sport">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Viasat Sport.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Viasat Urheilu HD">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>Viasat Urheilu HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Viasat Urheilu">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Viasat Urheilu.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Viasat Xtra 1">
+				<Provider>Astra 4.8E</Provider>
+			</Item>
+			<Item Name="Viasat Xtra 2">
+				<Provider>Astra 4.8E</Provider>
+			</Item>
+			<Item Name="Viasat Xtra 3">
+				<Provider>Astra 4.8E</Provider>
+			</Item>
+			<Item Name="Viasat Xtra 4">
+				<Provider>Astra 4.8E</Provider>
+			</Item>
+			<Item Name="Viasat Xtra 5">
+				<Provider>Astra 4.8E</Provider>
+			</Item>
+			<Item Name="Viasat Xtra">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Viasat Xtra.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Viasport 1">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>Viasport 1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Viasport 2">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>Viasport 2.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Viasport 3">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>Viasport 3.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Viasport+">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>Viasport Pluss.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Visjon Norge">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>Visjon Norge.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Vox DE">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Vox DE.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Vox HD">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="Vox HD NO">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Vox NO HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Vox NO">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<Item Name="Vox">
+				<Provider>Astra 4.8E</Provider>
+			</Item>
+			<File>Vox NO.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Yle Teema &amp; Fem HD">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>Yle Teema and Fem HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Yle Teema &amp; Fem">
+				<Provider>Digita</Provider>
+			</Item>
+			<Item Name="Yle Teema and Fem">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Yle Teema and Fem.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Yle TV1 HD">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>Yle TV1 HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Yle TV1">
+				<Provider>Digita</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Yle TV1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Yle TV2 HD">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>Yle TV2 HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Yle TV2">
+				<Provider>Digita</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Yle TV2.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ZDF HD">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>ZDF HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="YouSee Ekstrakanalen">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>YouSee Ekstrakanalen.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="YouSee Infokanalen">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>YouSee Infokanalen.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="YouSee Trailerkanalen">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>YouSee Trailerkanalen.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ZDF">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>ZDF.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Zee TV">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Zee TV.png</File>
+		</Channel>
+	</TV>
+<!-- ******************************************************************** -->
+	<Radio>
+		<Channel>
+			<Item Name="Bandit Classics">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Bandit Classics.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Bandit Rock">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<Item Name="Bandit">
+				<Provider>Astra 4.8E</Provider>
+			</Item>
+			<File>Bandit Rock.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="BBC World Service">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>BBC World Service.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="BR-Klassik">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>BR-Klassik.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Deutschlandfunk">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Deutschlandfunk.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="DR Nyheder">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>DR Nyheder.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="DR P1">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>DR P1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="DR Klassisk">
+				<Provider>Astra 4.8E</Provider>
+			</Item>
+			<Item Name="DR P2">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>DR P2.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="DR P3">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>DR P3.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="DR P4">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>DR P4.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="DR P5">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>DR P5.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="DR P6 Beat">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>DR P6 Beat.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="DR P7 Mix">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>DR P7 Mix.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="DR P8 Jazz">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>DR P8 Jazz.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Lugna Favoriter">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Lugna Favoriter.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NDR 1 Welle Nord">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>NDR 1 Welle Nord.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NDR 2">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>NDR 2.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Nova FM">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Nova FM.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NPR">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>NPR.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NRJ">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>NRJ.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NRK Alltid Nyheter">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>NRK Alltid Nyheter.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NRK Folkemusikk">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>NRK Folkemusikk.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NRK Jazz">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>NRK Jazz.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NRK Klassisk">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>NRK Klassisk.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NRK MP3">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>NRK MP3.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NRK P1 Buskerud">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="NRK P1 Finnmark">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="NRK P1 Hedmark-Oppland">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="NRK P1 Hordaland">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="NRK P1 Møre og Romsdal">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="NRK P1 Nordland">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="NRK P1 Oslo">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="NRK P1 Østfold">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="NRK P1 Rogaland">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="NRK P1 Sogn og Fjordane">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="NRK P1 Sørlandet">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="NRK P1 Telemark">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="NRK P1 Troms">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="NRK P1 Trøndelag">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="NRK P1 Vestfold">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="NRK P1">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>NRK P1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NRK P1+">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="NRK P1Pluss">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>NRK P1Pluss.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NRK P13">
+				<Provider>Full Name (Nordic)</Provider>">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>NRK P13.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NRK P2">
+				<Provider>Full Name (Nordic)</Provider>">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>NRK P2.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NRK P3">
+				<Provider>Full Name (Nordic)</Provider>">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>NRK P3.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NRK Radio Super">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>NRK Radio Super.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NRK Sámi Radio">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="NRK Sapmi">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>NRK Sapmi.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NRK Sport">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>NRK Sport.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="P4 Digital">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="P4 Lyden av Norge">
+				<Provider>Astra 4.8E</Provider>
+			</Item>
+			<Item Name="P4 Radio Hele Norge">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>P4 Radio Hele Norge.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="P24-7 Mix">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>P24-7 Mix.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Pink Radio">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Pink Radio.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Pop FM">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Pop FM.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Power Club">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Power Club.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Power Hit Radio">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Power Hit Radio.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Radio 1">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>Radio 1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Radio 100">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Radio 100.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Radio France Internationale">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Radio France Internationale.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Radio Nacional de Espana">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Radio Nacional de Espana.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Radio Norge">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>Radio Norge.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Radio Rock">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>Radio Rock.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Radio Vinyl">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<Item Name="Vinyl">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>Radio Vinyl.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Radio24syv">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Radio24syv.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Rai Radio 1">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Rai Radio 1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Ras 1">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<Item Name="RUV Ras 1">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>Ras 1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Ras 2">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<Item Name="RUV Ras 2">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>Ras 2.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Rix FM">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Rix FM.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RTL Radio">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>RTL Radio.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Scansat Radio">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<Item Name="Scandinavian Satellite Radio">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>Scansat Radio.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SR P1">
+				<Provider>Com Hem</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>SR P1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SR P2">
+				<Provider>Com Hem</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>SR P2.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SR P3">
+				<Provider>Com Hem</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>SR P3.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SR P4">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>SR P4.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SR SisuRadio">
+				<Provider>Com Hem</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>SR SisuRadio.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Star 90s">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<Item Name="Star 90">
+				<Provider>Astra 4.8E</Provider>
+			</Item>
+			<File>Star 90s.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Star FM">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Star FM.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Svenska Favoriter">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Svenska Favoriter.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="The Voice">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>The Voice DK.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Classic">
+				<Provider>Astra 4.8E</Provider>
+			</Item>
+			<Item Name="Viasat Music">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Viasat Music.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Yle Klassinen">
+				<Provider>Digita</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Yle Klassinen.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Yle Mondo">
+				<Provider>Digita</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Yle Mondo.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Yle Puhe">
+				<Provider>Digita</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Yle Puhe.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NRK Været til sjøs">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="YR">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>YR.png</File>
+		</Channel>
+	</Radio>
+</Mappings>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg3047" width="600" height="359.01" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata id="metadata3053">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs id="defs3051">
+  <clipPath id="clipPath3077">
+   <path id="path3079" d="m0 0h595.28v841.89h-595.28v-841.89z"/>
+  </clipPath>
+  <clipPath id="clipPath3085">
+   <path id="path3087" d="m0 0h595.28v841.89h-595.28v-841.89z"/>
+  </clipPath>
+  <clipPath id="clipPath3093">
+   <path id="path3095" d="m21.968 49.299h53.61v13.063h-53.61v-13.063z"/>
+  </clipPath>
+ </defs>
+ <path id="rect3429" d="m405.56 142.56v151.66h18.265v-71.579h68.836v71.579h42.892c43.398 0 64.416-20.818 64.448-77.448 0.0187-32.801-6.4491-74.212-67.959-74.212h-39.382v64.01h-68.836v-64.01zm106.02 15.413h15.522c38.323 0 53.54 15.954 53.478 61.212-0.0612 45.258-15.53 60.006-53.478 60.006h-15.522z" fill="#999"/>
+ <g id="g3073" transform="matrix(1.3426 0 0 -1.3426 272.85 228.31)"></g>
+ <g id="g3081" transform="matrix(1.3426 0 0 -1.3426 272.85 228.31)"></g>
+ <g id="g3089" transform="matrix(1.3426 0 0 -1.3426 272.85 228.31)"></g>
+ <path id="path3293" d="m116.85-5e-8v142.58h17.973v-142.58zm17.973 142.58v151.65h53.645c36.845 0 56.868-14.782 56.868-53.208v-45.724c0-37.049-21.399-52.716-56.868-52.716zm0 151.65h-17.973v64.789h17.973zm-17.973 0v-151.65h-32.067v94.342l-51.132-94.342h-33.651v151.65h32.067v-88.443l49.056 88.443zm143.94-151.65v151.65h33.651v-58.233h18.191l27.041 58.233h36.164l-32.067-64.352c17.741-6.8267 25.02-21.62 25.02-40.042 0-36.382-21.858-47.253-55.065-47.253zm32.941 26.822h21.36c13.408 0 21.414 3.8574 21.414 18.628 0 13.19-8.6874 20.485-21.414 20.485h-21.36zm-124.33 1.8027h16.115c18.654 0 27.041 9.11 27.041 27.532v39.114c0 18.423-8.3867 27.696-27.041 27.696h-16.115z" fill="#fff" fill-rule="evenodd"/>
+</svg>
