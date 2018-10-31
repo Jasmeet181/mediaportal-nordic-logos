@@ -2123,12 +2123,6 @@
 			<File>RT.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="RTCG">
-				<Provider>Full Name (Nordic)</Provider>
-			</Item>
-			<File>RTCG.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="RTK1">
 				<Provider>Full Name (Nordic)</Provider>
 			</Item>
@@ -3633,6 +3627,12 @@
 				<Provider>Full Name (Nordic)</Provider>
 			</Item>
 			<File>TV8 SE.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TVCG Sat">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>TVCG Sat.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="TVE Internacional">
