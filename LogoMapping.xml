@@ -89,6 +89,9 @@
 			<Item Name="Al Jazeera English">
 				<Provider>Full Name (Nordic)</Provider>
 			</Item>
+			<Item Name="AlJazeera English">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
 			<File>Al Jazeera English.png</File>
 		</Channel>
 		<Channel>
