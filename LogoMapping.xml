@@ -358,6 +358,19 @@
 			<File>C More Hockey.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="C More Juniori HD">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>C More Juniori HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="C More Juniori">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>C More Juniori.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="C More Live 2 HD">
 				<Provider>Full Name (Nordic)</Provider>">
 				<Provider>Thor 0.8W</Provider>
@@ -433,6 +446,19 @@
 			<File>C More Live.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="C More Max HD">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>C More Max HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="C More Max">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>C More Max.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="C More Series HD">
 				<Provider>Full Name (Nordic)</Provider>">
 				<Provider>Thor 0.8W</Provider>
@@ -447,16 +473,30 @@
 			<File>C More Series.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="C More Sport HD">
+			<Item Name="C More Sport 1 HD">
 				<Provider>Full Name (Nordic)</Provider>">
+				<Provider>Thor 0.8W</Provider>
 			</Item>
-			<File>C More Sport HD.png</File>
+			<File>C More Sport 1 HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="C More Sport">
+			<Item Name="C More Sport 1">
 				<Provider>Full Name (Nordic)</Provider>
 			</Item>
-			<File>C More Sport.png</File>
+			<File>C More Sport 1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="C More Sport 2 HD">
+				<Provider>Full Name (Nordic)</Provider>">
+			</Item>
+			<File>C More Sport 2 HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="C More 2 Sport">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>C More Sport 2.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="C More Stars HD">
@@ -1359,10 +1399,16 @@
 				<Provider>Full Name (Nordic)</Provider>
 				<Provider>Thor 0.8W</Provider>
 			</Item>
+			<File>Kanal 10 Norge.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Kanal 10 SE">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
 			<Item Name="Kanal 10">
 				<Provider>Astra 4.8E</Provider>
 			</Item>
-			<File>Kanal 10 Norge.png</File>
+			<File>Kanal 10 SE.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Kanal 11 HD - Text">
@@ -1461,6 +1507,15 @@
 				<Provider>Sappa</Provider>
 			</Item>
 			<File>Kanal 5 SE.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Kanal 75">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<Item Name="K75 International">
+				<Provider>Astra 4.8E</Provider>
+			</Item>
+			<File>Kanal 75.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Kanal 7 Avrupa">
