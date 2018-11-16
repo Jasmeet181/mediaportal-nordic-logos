@@ -1102,10 +1102,10 @@
 			<File>Expressen TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Extreme Sports">
+			<Item Name="Extreme Sports Channel">
 				<Provider>Full Name (Nordic)</Provider>
 			</Item>
-			<File>Extreme Sports.png</File>
+			<File>Extreme Sports Channel.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="E!">
