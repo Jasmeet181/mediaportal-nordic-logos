@@ -1126,13 +1126,6 @@
 			<File>Fashion TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Fatstone TV">
-				<Provider>Full Name (Nordic)</Provider>
-				<Provider>Thor 0.8W</Provider>
-			</Item>
-			<File>Fatstone TV.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Fem HD">
 				<Provider>Full Name (Nordic)</Provider>
 				<Provider>Thor 0.8W</Provider>
@@ -1937,6 +1930,13 @@
 				<Provider>Full Name (Nordic)</Provider>
 			</Item>
 			<File>Nordlys TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Norway Live">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>Norway Live.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="NRK Super / NRK3 HD">
