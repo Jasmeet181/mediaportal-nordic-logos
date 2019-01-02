@@ -301,9 +301,6 @@
 			<File>C More Fotboll.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="C More Golf HD (D)">
-				<Provider>Thor 0.8W</Provider>
-			</Item>
 			<Item Name="C More Golf HD">
 				<Provider>Full Name (Nordic)</Provider>
 				<Provider>Thor 0.8W</Provider>
@@ -2088,6 +2085,12 @@
 				<Provider>Full Name (Nordic)</Provider>
 			</Item>
 			<File>OutTV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Paramount Network">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Paramount Network.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Pink Plus">
@@ -4113,6 +4116,12 @@
 				<Provider>Astra 4.8E</Provider>
 			</Item>
 			<File>Vox NO.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Xee">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Xee.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Yle Teema &amp; Fem HD">
