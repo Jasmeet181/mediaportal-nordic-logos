@@ -610,33 +610,6 @@
 			<File>Colors.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Comedy Central HD">
-				<Provider>Full Name (Nordic)</Provider>
-			</Item>
-			<File>Comedy Central HD.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Comedy Central (D)">
-				<Provider>Astra 4.8E</Provider>
-				<Provider>Thor 0.8W</Provider>
-			</Item>
-			<Item Name="Comedy Central (N)">
-				<Provider>Thor 0.8W</Provider>
-			</Item>
-			<Item Name="Comedy Central (S)">
-				<Provider>Astra 4.8E</Provider>
-				<Provider>Thor 0.8W</Provider>
-			</Item>
-			<Item Name="Comedy Central Norway">
-				<Provider>Astra 4.8E</Provider>
-			</Item>
-			<Item Name="Comedy Central">
-				<Provider>Boxer TV Access</Provider>
-				<Provider>Full Name (Nordic)</Provider>
-			</Item>
-			<File>Comedy Central.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Dansk Filmskat">
 				<Provider>Thor 0.8W</Provider>
 			</Item>
@@ -2088,7 +2061,20 @@
 		</Channel>
 		<Channel>
 			<Item Name="Paramount Network">
+				<Provider>Boxer TV Access</Provider>
 				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<Item Name="Paramount Network (D)">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="Paramount Network (S)">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="Paramount Network DK">
+				<Provider>Astra 4.8E</Provider>
+			</Item>
+			<Item Name="Paramount Network SE">
+				<Provider>Astra 4.8E</Provider>
 			</Item>
 			<File>Paramount Network.png</File>
 		</Channel>
@@ -2932,6 +2918,7 @@
 			<File>TLC SE.png</File>
 		</Channel>
 		<Channel>
+			<!-- Closes 01/02/2019 -->
 			<Item Name="TNT Sverige">
 				<Provider>Thor 0.8W</Provider>
 			</Item>
