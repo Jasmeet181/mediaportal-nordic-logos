@@ -3618,6 +3618,12 @@
 			<File>TV5 FI.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="TV5 HD FI">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>TV5 HD FI.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="TV5Monde Europe">
 				<Provider>Full Name (Nordic)</Provider>
 			</Item>

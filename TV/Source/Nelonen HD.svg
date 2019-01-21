@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="svg81" width="566.65" height="435.4" version="1.1" viewBox="0 0 566.65 435.4" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
- <metadata id="metadata85">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title>Asset 1</dc:title>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <defs id="defs39">
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg13461" width="800" height="449.63" version="1.1" viewBox="0 0 211.67 118.96" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs13455">
+  <clipPath id="clipPath9458">
+   <path id="path9456" d="m148.08 316.29h11.566v15.186h-11.566z"/>
+  </clipPath>
   <linearGradient id="linear-gradient" x1="116.35" x2="309.69" y1="404.94" y2="190.22" gradientTransform="translate(-.11569 -.42013)" gradientUnits="userSpaceOnUse">
    <stop id="stop4" stop-color="blue" offset="0"/>
    <stop id="stop6" stop-color="#0009fc" offset=".08"/>
@@ -33,12 +28,32 @@
    <stop id="stop36" stop-color="#00ffaf" offset="1"/>
   </linearGradient>
  </defs>
- <title id="title41">Asset 1</title>
- <path id="path43" class="cls-1" d="m51.884 346.58h311q21-0.16 21-18.79v-61.81q0-18.64-21.06-18.75h-310.94z" fill="url(#linear-gradient)"/>
- <path id="path45" class="cls-2" d="m219.41 51.16v363.18q0.12 21.06 18.76 21.06h66.22q18.63 0 18.75-21.06v-363.18z" fill="url(#linear-gradient-2)"/>
- <path id="path47" class="cls-3" d="m51.884 346.58a52.28 52.28 0 0 1-38.33-87.4l218.2-242.38a52.42 52.42 0 0 1 77.82 70.24l-218.2 242.34a52.49 52.49 0 0 1-39.49 17.2z" fill="url(#linear-gradient-3)"/>
- <g id="g934" transform="matrix(1.8316 0 0 1.8316 -627.46 -253.54)" fill="#fff" stroke-width=".54596">
-  <path id="path55" class="cls-4" d="m584.79 288.79a9.62 9.62 0 0 1 2.77-2.33 13 13 0 0 1 2.93-1.19 11.91 11.91 0 0 1 2.68-0.43h2a14.14 14.14 0 0 1 10.2 3.74q3.92 3.73 3.91 11.56v25.33a1.35 1.35 0 0 1-0.51 1.15 1.72 1.72 0 0 1-1 0.38h-7.91a1.72 1.72 0 0 1-1-0.38 1.35 1.35 0 0 1-0.51-1.15v-24.95a6.72 6.72 0 0 0-0.3-1.74 5.87 5.87 0 0 0-1.06-2 6.27 6.27 0 0 0-2-1.65 6.75 6.75 0 0 0-3.23-0.68 11.81 11.81 0 0 0-3.1 0.51 9.37 9.37 0 0 0-3.79 2.37v28.14a1.35 1.35 0 0 1-0.51 1.15 1.72 1.72 0 0 1-1 0.38h-7.9a1.72 1.72 0 0 1-1-0.38 1.35 1.35 0 0 1-0.51-1.15v-50.53a1.35 1.35 0 0 1 0.51-1.15 1.72 1.72 0 0 1 1-0.38h7.9a1.72 1.72 0 0 1 1 0.38 1.35 1.35 0 0 1 0.51 1.15z"/>
-  <path id="path57" class="cls-4" d="m651.94 324.07c0 0.51-0.68 1-2 1.4a35 35 0 0 1-4.93 1.11c-1.92 0.31-3.91 0.56-6 0.76s-3.74 0.3-5.1 0.3a21.91 21.91 0 0 1-7.14-1.11 12.57 12.57 0 0 1-5.52-3.74 18.29 18.29 0 0 1-3.57-7.09 41.09 41.09 0 0 1-1.28-11.1 26.73 26.73 0 0 1 1.49-9.6 17.08 17.08 0 0 1 3.78-6.08 13.26 13.26 0 0 1 5-3.18 15.54 15.54 0 0 1 5.1-0.94c0.9 0 2.18 0.08 3.82 0.25a14.11 14.11 0 0 1 5.36 1.88v-12a1.35 1.35 0 0 1 0.51-1.15 1.72 1.72 0 0 1 1-0.38h7.9a1.72 1.72 0 0 1 1 0.38 1.35 1.35 0 0 1 0.51 1.15zm-11-28.64-2-0.51-2-0.34a10.51 10.51 0 0 0-1.91-0.17 11.66 11.66 0 0 0-2.55 0.29 7 7 0 0 0-2.34 1 5.93 5.93 0 0 0-1.78 2 6.65 6.65 0 0 0-0.81 3.18 13.88 13.88 0 0 0-0.09 1.62v7.22a17 17 0 0 0 0.09 1.79 6.74 6.74 0 0 0 0.81 3.14 6.16 6.16 0 0 0 1.78 2.05 6.71 6.71 0 0 0 2.34 1.06 11.09 11.09 0 0 0 2.52 0.24 16.71 16.71 0 0 0 2-0.12 14.78 14.78 0 0 0 2-0.39q1-0.16 2-0.42z"/>
+ <metadata id="metadata13458">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1" transform="translate(2.5308 -12.653)">
+  <g id="g14096" transform="matrix(1.0967 0 0 1.0967 .24462 -12.722)">
+   <g id="g9448" transform="matrix(8.1048 0 0 -8.1048 134.67 59.401)">
+    <path id="path9450" d="m0 0v-2.19h-2.893v2.19h-1.115v-5.784h1.115v2.603h2.893v-2.603h1.115v5.784z" fill="#2350a9"/>
+   </g>
+   <g id="g9452" transform="matrix(8.1048 0 0 -8.1048 -1103.4 2699)">
+    <g id="g9454" clip-path="url(#clipPath9458)">
+     <g id="g9460" transform="translate(158.11 324.05)">
+      <path id="path9462" d="m0 0c-0.322 0.405-0.793 0.645-1.479 0.645h-0.826v-3.801h0.826c0.686 0 1.157 0.239 1.479 0.644 0.264 0.331 0.421 0.777 0.421 1.256s-0.157 0.925-0.421 1.256m-1.603 1.636c0.917 0 1.52-0.198 1.991-0.545 0.711-0.529 1.149-1.388 1.149-2.347 0-0.958-0.438-1.818-1.149-2.347-0.471-0.347-1.074-0.545-1.991-0.545h-1.818v5.784z" fill="#2350a9"/>
+     </g>
+    </g>
+   </g>
+  </g>
+  <g id="g841" transform="matrix(.27323 0 0 .27323 -2.5307 12.653)">
+   <path id="path43" class="cls-1" d="m51.884 346.58h311q21-0.16 21-18.79v-61.81q0-18.64-21.06-18.75h-310.94z" fill="url(#linear-gradient)"/>
+   <path id="path45" class="cls-2" d="m219.41 51.16v363.18q0.12 21.06 18.76 21.06h66.22q18.63 0 18.75-21.06v-363.18z" fill="url(#linear-gradient-2)"/>
+   <path id="path47" class="cls-3" d="m51.884 346.58a52.28 52.28 0 0 1-38.33-87.4l218.2-242.38a52.42 52.42 0 0 1 77.82 70.24l-218.2 242.34a52.49 52.49 0 0 1-39.49 17.2z" fill="url(#linear-gradient-3)"/>
+  </g>
  </g>
 </svg>
