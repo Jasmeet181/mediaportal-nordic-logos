@@ -1734,20 +1734,21 @@
 		</Channel>
 		<Channel>
 			<Item Name="Nat Geo Wild HD">
-				<Provider>Full Name (Nordic)</Provider>
 				<Provider>Thor 0.8W</Provider>
 			</Item>
-			<Item Name="NatGeo Wild">
-				<Provider>Astra 4.8E</Provider>
+			<Item Name="National Geographic Wild HD">
+				<Provider>Full Name (Nordic)</Provider>
 			</Item>
-			<File>Nat Geo Wild HD.png</File>
+			<File>National Geographic Wild HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Nat Geo Wild">
 				<Provider>Astra 4.8E</Provider>
+			</Item>
+			<Item Name="National Geographic Wild">
 				<Provider>Full Name (Nordic)</Provider>
 			</Item>
-			<File>Nat Geo Wild.png</File>
+			<File>National Geographic Wild.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Nat Geo HD (D)">
