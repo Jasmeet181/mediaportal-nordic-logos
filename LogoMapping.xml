@@ -2918,18 +2918,6 @@
 			<File>TLC SE.png</File>
 		</Channel>
 		<Channel>
-			<!-- Closes 01/02/2019 -->
-			<Item Name="TNT Sverige">
-				<Provider>Thor 0.8W</Provider>
-			</Item>
-			<Item Name="TNT">
-				<Provider>Boxer TV Access</Provider>
-				<Provider>Full Name (Nordic)</Provider>
-				<Provider>Thor 0.8W</Provider>
-			</Item>
-			<File>TNT.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="TotoTV">
 				<Provider>Full Name (Nordic)</Provider>
 			</Item>
