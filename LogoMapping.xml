@@ -1227,19 +1227,6 @@
 			<File>Gospel Channel.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="H2 HD">
-				<Provider>Full Name (Nordic)</Provider>
-				<Provider>Thor 0.8W</Provider>
-			</Item>
-			<File>H2 HD.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="H2">
-				<Provider>Full Name (Nordic)</Provider>
-			</Item>
-			<File>H2.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Hayat Plus">
 				<Provider>Full Name (Nordic)</Provider>
 			</Item>
@@ -1273,6 +1260,19 @@
 				<Provider>Thor 0.8W</Provider>
 			</Item>
 			<File>History HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="H2 HD">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>History2 HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="H2">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>History2.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="History">
