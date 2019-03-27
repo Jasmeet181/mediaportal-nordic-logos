@@ -2495,12 +2495,6 @@
 			<File>Star Vijay.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Stingray Brava">
-				<Provider>Full Name (Nordic)</Provider>
-			</Item>
-			<File>Stingray Brava.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Stingray Djazz">
 				<Provider>Full Name (Nordic)</Provider>
 			</Item>
@@ -4068,10 +4062,12 @@
 			<File>Viasport Pluss.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Visjon Norge HD">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
 			<Item Name="Visjon Norge">
 				<Provider>Astra 4.8E</Provider>
 				<Provider>Full Name (Nordic)</Provider>
-				<Provider>Thor 0.8W</Provider>
 			</Item>
 			<File>Visjon Norge.png</File>
 		</Channel>
