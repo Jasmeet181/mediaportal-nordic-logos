@@ -2380,10 +2380,10 @@
 			<File>Sappa.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Sat1 HD">
+			<Item Name="Sat.1 HD">
 				<Provider>Full Name (Nordic)</Provider>
 			</Item>
-			<File>Sat1 HD.png</File>
+			<File>Sat.1 HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Sat7">
