@@ -604,6 +604,12 @@
 			<File>CNN International.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Colors Rishtey">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Colors Rishtey.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Colors">
 				<Provider>Full Name (Nordic)</Provider>
 			</Item>
@@ -2154,12 +2160,6 @@
 				<Provider>Full Name (Nordic)</Provider>
 			</Item>
 			<File>Rikstoto Direkte.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Rishtey Europe">
-				<Provider>Full Name (Nordic)</Provider>
-			</Item>
-			<File>Rishtey Europe.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="RT">
