@@ -2763,18 +2763,18 @@
 			<File>Telenor.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Telia Liiga 1">
+			<Item Name="Telia Liiga 1 HD">
 				<Provider>Full Name (Nordic)</Provider>
 				<Provider>Thor 0.8W</Provider>
 			</Item>
-			<File>Telia Liiga 1.png</File>
+			<File>Telia Liiga 1 HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Telia Liiga 2">
+			<Item Name="Telia Liiga 2 HD">
 				<Provider>Full Name (Nordic)</Provider>
 				<Provider>Thor 0.8W</Provider>
 			</Item>
-			<File>Telia Liiga 2.png</File>
+			<File>Telia Liiga 2 HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Telia Liiga 3">
