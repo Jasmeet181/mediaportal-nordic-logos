@@ -3180,19 +3180,16 @@
 			<Item Name="TV 2 Øst">
 				<Provider>Astra 4.8E</Provider>
 			</Item>
-			<Item Name="TV Øst DK">
+			<Item Name="TV 2 Øst">
 				<Provider>Full Name (Nordic)</Provider>
 			</Item>
-			<File>TV Ost DK.png</File>
+			<File>TV 2 Ost.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="TV 2 / Øst">
-				<Provider>Thor 0.8W</Provider>
-			</Item>
-			<Item Name="TV Øst NO">
+			<Item Name="TV Øst">
 				<Provider>Full Name (Nordic)</Provider>
 			</Item>
-			<File>TV Ost NO.png</File>
+			<File>TV Ost.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="TV 2 / Syd">
