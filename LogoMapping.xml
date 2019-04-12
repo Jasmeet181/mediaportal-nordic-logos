@@ -2819,6 +2819,13 @@
 			<File>Telia Liiga Studio.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Telia Liiga UHD">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>Telia Liiga UHD.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Telia">
 				<Provider>Full Name (Nordic)</Provider>
 			</Item>
@@ -2855,62 +2862,30 @@
 			<File>The Qyou.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="TLC HD">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<Item Name="TLC Norge HD">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="TLC Sverige HD">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>TLC HD.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="TLC Danmark syn">
 				<Provider>Thor 0.8W</Provider>
 			</Item>
 			<Item Name="TLC Danmark">
 				<Provider>Thor 0.8W</Provider>
 			</Item>
-			<Item Name="TLC DK">
-				<Provider>Full Name (Nordic)</Provider>
-			</Item>
-			<File>TLC DK.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="TLC FI">
-				<Provider>Full Name (Nordic)</Provider>
-			</Item>
-			<!-- Conflicts with TLC SE -->
-			<!--
-			<Item Name="TLC">
-				<Provider>Digita</Provider>
-			</Item>
-			-->
-			<File>TLC FI.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="TLC HD NO">
-				<Provider>Full Name (Nordic)</Provider>
-			</Item>
-			<Item Name="TLC Norge HD">
-				<Provider>Thor 0.8W</Provider>
-			</Item>
-			<File>TLC HD NO.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="TLC Sverige HD">
-				<Provider>Thor 0.8W</Provider>
-			</Item>
-			<Item Name="TLC HD SE">
-				<Provider>Full Name (Nordic)</Provider>
-			</Item>
-			<File>TLC HD SE.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="TLC NO">
-				<Provider>Full Name (Nordic)</Provider>
-			</Item>
-			<File>TLC NO.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="TLC SE">
-				<Provider>Full Name (Nordic)</Provider>
-			</Item>
-			<!-- Conflicts with TLC FI -->
 			<Item Name="TLC">
 				<Provider>Boxer TV Access</Provider>
+				<Provider>Digita</Provider>
+				<Provider>Full Name (Nordic)</Provider>
 			</Item>
-			<File>TLC SE.png</File>
+			<File>TLC.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="TotoTV">
@@ -2921,7 +2896,6 @@
 		<Channel>
 			<Item Name="Trace Urban HD">
 				<Provider>Full Name (Nordic)</Provider>
-				<Provider>Thor 0.8W</Provider>
 			</Item>
 			<File>Trace Urban HD.png</File>
 		</Channel>
