@@ -1,118 +1,19 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="81"
-   height="32"
-   viewBox="0 0 81 32"
-   version="1.1"
-   id="svg23"
-   sodipodi:docname="NRK P2 - Dark.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
-  <metadata
-     id="metadata27">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>nrk-logo-nrk-p2--colorwhite</dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     id="namedview25"
-     showgrid="false"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0"
-     inkscape:zoom="3.4634146"
-     inkscape:cx="41"
-     inkscape:cy="9"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg23" />
-  <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
-  <title
-     id="title2">nrk-logo-nrk-p2--colorwhite</title>
-  <desc
-     id="desc4">Created with Sketch.</desc>
-  <defs
-     id="defs6" />
-  <g
-     id="Radio"
-     style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1"
-     transform="translate(0,-2)">
-    <g
-       id="nrk-logo-nrk-p2--colorwhite">
-      <g
-         id="nrk-tv-nrk-1__nrk--white"
-         transform="translate(0,9)"
-         style="fill:#ffffff">
-        <g
-           id="nrk-tv-nrk-1__nrk">
-          <path
-             d="M 41.27426,10.318843 C 40.93865,9.7168255 40.919415,9.3466775 41.243086,8.7654842 l 4.44672,-7.7066607 H 39.52082 c 0,0 -3.7063,6.4123123 -4.213031,7.3032882 -0.501867,0.889806 -0.480201,1.4438582 0.02056,2.3582313 C 35.835081,11.633547 39.52082,18 39.52082,18 h 6.168986 c 0,0 -4.366907,-7.586164 -4.415546,-7.681157"
-             id="k"
-             inkscape:connector-curvature="0"
-             style="fill-opacity:1;fill:#000000" />
-          <path
-             style="fill-opacity:1;fill:#000000"
-             d="m 34.258069,1.0588235 h -5.6103 V 18 h 5.6103 z"
-             id="polygon9" />
-          <path
-             d="m 25.127403,0.73058823 c -1.746365,0 -3.159773,1.51059537 -3.159773,3.37560587 0,1.8638401 1.413408,3.3791172 3.159773,3.3791172 1.749239,0 3.168617,-1.5152771 3.168617,-3.3791172 0,-1.8650105 -1.419378,-3.37560587 -3.168617,-3.37560587"
-             id="o"
-             inkscape:connector-curvature="0"
-             style="fill-opacity:1;fill:#000000" />
-          <path
-             style="fill-opacity:1;fill:#000000"
-             d="M 21.611017,1.0588235 H 16.004034 V 18 h 5.606983 z"
-             id="r" />
-          <path
-             style="fill-opacity:1;fill:#000000"
-             d="M 5.5965922,1.0588235 H 0 V 18 h 5.5965922 z"
-             id="n" />
-          <path
-             d="M 12.648378,3.7806519 C 12.361186,2.2282294 11.078661,1.0588235 9.5414447,1.0588235 H 5.9368449 L 9.5589105,18 h 6.0929325 z"
-             id="path14"
-             inkscape:connector-curvature="0"
-             style="fill-opacity:1;fill:#000000" />
-        </g>
-      </g>
-      <path
-         d="M 65.002146,2 C 56.162017,2 49,9.16285 49,17.999463 49,26.835004 56.162017,34 65.002146,34 73.83691,34 81,26.835004 81,17.999463 81,9.16285 73.83691,2 65.002146,2"
-         id="radio-nrk-p2__p2"
-         inkscape:connector-curvature="0"
-         style="fill:#be1f3b" />
-      <path
-         d="m 73.859442,18.854585 c 1.536481,-1.627628 2.214592,-2.394769 2.214592,-4.073898 0,-2.920503 -2.198498,-4.8818102 -5.12339,-4.8818102 h -4.96352 c 1.119099,0.7038392 1.998928,1.9065882 2.456009,3.3754232 h 2.217811 c 0.681331,0 1.521459,0.523588 1.521459,1.457033 0,0.659849 -0.146995,0.908768 -0.637339,1.425918 -0.659871,0.693109 -1.317596,1.413042 -3.209227,3.483788 -1.891631,2.070746 -2.638412,3.164057 -2.638412,5.632859 v 0.830444 h 10.022532 v -3.479497 h -5.399142 l 3.538627,-3.77026"
-         id="radio-nrk-p2__p2__2"
-         inkscape:connector-curvature="0"
-         style="fill:#ffffff" />
-      <path
-         d="M 61.348712,9.8226991 H 54.910944 V 26.200905 h 4.023605 V 13.278592 h 2.072962 c 1.61588,0 2.343347,0.865851 2.343347,2.231685 0,1.387292 -0.79721,2.229539 -2.435622,2.229539 h -0.736052 v 3.275641 h 0.964593 c 4.164163,0 6.187768,-2.160872 6.187768,-5.687578 0,-3.456965 -2.206009,-5.5051799 -5.982833,-5.5051799"
-         id="radio-nrk-p2__p2__p"
-         inkscape:connector-curvature="0"
-         style="fill:#ffffff" />
+<svg id="a" version="1.1" viewBox="0 0 81 32" xmlns="http://www.w3.org/2000/svg">
+ <g id="b" transform="translate(0,-2)" fill="none" fill-rule="evenodd">
+  <g id="c">
+   <g id="d" transform="translate(0,9)" fill="#fff">
+    <g id="e" fill="#000">
+     <path id="f" d="m41.274 10.319c-0.33561-0.60202-0.35484-0.97217-0.031174-1.5534l4.4467-7.7067h-6.169s-3.7063 6.4123-4.213 7.3033c-0.50187 0.88981-0.4802 1.4439 0.02056 2.3582 0.50673 0.9132 4.1925 7.2797 4.1925 7.2797h6.169s-4.3669-7.5862-4.4155-7.6812"/>
+     <path id="g" d="m34.258 1.0588h-5.6103v16.941h5.6103z"/>
+     <path id="h" d="m25.127 0.73059c-1.7464 0-3.1598 1.5106-3.1598 3.3756 0 1.8638 1.4134 3.3791 3.1598 3.3791 1.7492 0 3.1686-1.5153 3.1686-3.3791 0-1.865-1.4194-3.3756-3.1686-3.3756"/>
+     <path id="i" d="m21.611 1.0588h-5.607v16.941h5.607z"/>
+     <path id="j" d="m5.5966 1.0588h-5.5966v16.941h5.5966z"/>
+     <path id="k" d="m12.648 3.7807c-0.28719-1.5524-1.5697-2.7218-3.1069-2.7218h-3.6046l3.6221 16.941h6.0929z"/>
     </g>
+   </g>
+   <path id="l" d="m65.002 2c-8.8401 0-16.002 7.1628-16.002 15.999 0 8.8355 7.162 16.001 16.002 16.001 8.8348 0 15.998-7.165 15.998-16.001 0-8.8366-7.1631-15.999-15.998-15.999" fill="#be1f3b"/>
+   <path id="m" d="m73.859 18.855c1.5365-1.6276 2.2146-2.3948 2.2146-4.0739 0-2.9205-2.1985-4.8818-5.1234-4.8818h-4.9635c1.1191 0.70384 1.9989 1.9066 2.456 3.3754h2.2178c0.68133 0 1.5215 0.52359 1.5215 1.457 0 0.65985-0.147 0.90877-0.63734 1.4259-0.65987 0.69311-1.3176 1.413-3.2092 3.4838s-2.6384 3.1641-2.6384 5.6329v0.83044h10.023v-3.4795h-5.3991l3.5386-3.7703" fill="#fff"/>
+   <path id="n" d="m61.349 9.8227h-6.4378v16.378h4.0236v-12.922h2.073c1.6159 0 2.3433 0.86585 2.3433 2.2317 0 1.3873-0.79721 2.2295-2.4356 2.2295h-0.73605v3.2756h0.96459c4.1642 0 6.1878-2.1609 6.1878-5.6876 0-3.457-2.206-5.5052-5.9828-5.5052" fill="#fff"/>
   </g>
+ </g>
 </svg>

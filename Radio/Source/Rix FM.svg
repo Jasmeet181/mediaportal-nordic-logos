@@ -1,28 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="svg14" width="753.26pt" height="256.45pt" version="1.1" viewBox="0 0 753.26 256.45" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
- <metadata id="metadata20">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <defs id="defs18">
-  <linearGradient id="linearGradient831">
-   <stop id="stop827" stop-color="#ce181e" offset="0"/>
-   <stop id="stop829" stop-color="#ff4636" offset="1"/>
+<svg id="e" width="753.26pt" height="256.45pt" version="1.1" viewBox="0 0 753.26 256.45" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="f">
+  <linearGradient id="a">
+   <stop id="g" stop-color="#ce181e" offset="0"/>
+   <stop id="h" stop-color="#ff4636" offset="1"/>
   </linearGradient>
-  <linearGradient id="linearGradient835" x1="358.65" x2="378.54" y1="418.51" y2="238.1" gradientTransform="translate(-127.72,-185.67)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient831"/>
-  <linearGradient id="linearGradient837" x1="291.5" x2="309.29" y1="425.4" y2="245.19" gradientTransform="translate(-127.72,-185.67)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient831"/>
-  <linearGradient id="linearGradient839" x1="127.72" x2="145.48" y1="442.12" y2="261.99" gradientTransform="translate(-127.72,-185.67)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient831"/>
+  <linearGradient id="d" x1="358.65" x2="378.54" y1="418.51" y2="238.1" gradientTransform="translate(-127.72,-185.67)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="c" x1="291.5" x2="309.29" y1="425.4" y2="245.19" gradientTransform="translate(-127.72,-185.67)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="b" x1="127.72" x2="145.48" y1="442.12" y2="261.99" gradientTransform="translate(-127.72,-185.67)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
  </defs>
- <g id="#8a8b8aff" transform="translate(-127.72,-185.67)" fill="#8a8b8a">
-  <path id="path2" d="m809.82 192.99 71.16-7.32-17.99 181.2-52.36 5.48 10.15-104.32-35.07 106.88-36.53 3.75-15.62-102.78-10.28 105.45-43.54 4.5 17.74-181.25 70.76-7.29 12.93 82.21z"/>
-  <path id="path4" d="m563.26 218.4 124.02-12.77-4.69 47.93-69.26 7.12-2.17 22.18 53.07-5.44-4.48 45.62-53.06 5.47-6.46 65.53-54.73 5.62z"/>
+ <g id="i" transform="translate(-127.72,-185.67)" fill="#8a8b8a">
+  <path id="j" d="m809.82 192.99 71.16-7.32-17.99 181.2-52.36 5.48 10.15-104.32-35.07 106.88-36.53 3.75-15.62-102.78-10.28 105.45-43.54 4.5 17.74-181.25 70.76-7.29 12.93 82.21z"/>
+  <path id="k" d="m563.26 218.4 124.02-12.77-4.69 47.93-69.26 7.12-2.17 22.18 53.07-5.44-4.48 45.62-53.06 5.47-6.46 65.53-54.73 5.62z"/>
  </g>
- <path id="path7" d="m356.69 41.62 65.68-6.69-61.33 92.71 45.55 87.26-65.3 6.68-18.51-38.37-26.57 42.96-65.28 6.67 63.94-98.44-44.05-81.97 65.67-6.68 16.43 34.82z" fill="url(#linearGradient835)"/>
- <path id="path9" d="m181.57 59.52 56.6-5.75-17.85 180.19-56.54 5.77z" fill="url(#linearGradient837)"/>
- <path id="path11" d="m92.2 68.66c12.76-1.29 25.75-3.1 38.5-0.69 10.21 1.86 20.25 7.05 26.3 15.69 5.42 7.74 7.37 17.41 7.2 26.73-0.32 13.41-3.88 27.11-12.13 37.89-5.54 7.5-13.02 13.27-20.86 18.18l22.55 74.29-62.38 6.36-17.28-63.95-10.73 1.1-6.59 66.4-56.78 5.79 17.76-180.13 74.44-7.66m-21.82 45.12-2.67 26.87c9.95-1.41 20.51-0.87 29.81-5.19 6.9-3.13 10.06-12.3 6.72-19.04-2.01-4.02-6.85-5.1-10.97-4.8-7.65 0.43-15.26 1.51-22.89 2.16z" fill="url(#linearGradient839)"/>
+ <path id="l" d="m356.69 41.62 65.68-6.69-61.33 92.71 45.55 87.26-65.3 6.68-18.51-38.37-26.57 42.96-65.28 6.67 63.94-98.44-44.05-81.97 65.67-6.68 16.43 34.82z" fill="url(#d)"/>
+ <path id="m" d="m181.57 59.52 56.6-5.75-17.85 180.19-56.54 5.77z" fill="url(#c)"/>
+ <path id="n" d="m92.2 68.66c12.76-1.29 25.75-3.1 38.5-0.69 10.21 1.86 20.25 7.05 26.3 15.69 5.42 7.74 7.37 17.41 7.2 26.73-0.32 13.41-3.88 27.11-12.13 37.89-5.54 7.5-13.02 13.27-20.86 18.18l22.55 74.29-62.38 6.36-17.28-63.95-10.73 1.1-6.59 66.4-56.78 5.79 17.76-180.13 74.44-7.66m-21.82 45.12-2.67 26.87c9.95-1.41 20.51-0.87 29.81-5.19 6.9-3.13 10.06-12.3 6.72-19.04-2.01-4.02-6.85-5.1-10.97-4.8-7.65 0.43-15.26 1.51-22.89 2.16z" fill="url(#b)"/>
 </svg>
