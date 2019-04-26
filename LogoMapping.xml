@@ -4030,7 +4030,7 @@
 				<Provider>Full Name (Nordic)</Provider>
 				<Provider>Thor 0.8W</Provider>
 			</Item>
-			<File>Viasport Pluss.png</File>
+			<File>ViasportPluss.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Visjon Norge HD">
@@ -4055,7 +4055,7 @@
 			<Item Name="Vox HD NO">
 				<Provider>Full Name (Nordic)</Provider>
 			</Item>
-			<File>Vox NO HD.png</File>
+			<File>Vox HD NO.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Vox NO">
