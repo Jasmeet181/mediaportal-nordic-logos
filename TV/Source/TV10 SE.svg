@@ -1,11 +1,11 @@
-<svg id="a" width="139.12pt" height="127.18pt" version="1.1" viewBox="0 0 139.12 127.18" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
- <g id="b" transform="matrix(2.7439 0 0 2.7439 809.48 135.86)">
-  <path id="c" transform="matrix(.75 0 0 .75 -295.61 -49.664)" d="m68.4 0.2h-67.6v61.8l67.6-9.7z" fill="#ffe600"/>
-  <g id="d" transform="matrix(.75 0 0 .75 -295.61 -49.664)">
-   <clipPath id="e">
-    <use id="f" width="100%" height="100%" overflow="visible" xlink:href="#SVGID_1_"/>
+<svg width="139.12pt" height="127.18pt" version="1.1" viewBox="0 0 139.12 127.18" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <g transform="matrix(2.7439 0 0 2.7439 809.48 135.86)">
+  <path transform="matrix(.75 0 0 .75 -295.61 -49.664)" d="m68.4 0.2h-67.6v61.8l67.6-9.7z" fill="#ffe600"/>
+  <g transform="matrix(.75 0 0 .75 -295.61 -49.664)">
+   <clipPath>
+    <use width="100%" height="100%" overflow="visible" xlink:href="#SVGID_1_"/>
    </clipPath>
-   <path id="g" d="m14.9 18.7v3.1l2.4-1.4v27l12.4-7.4c2.8 3.1 6.8 5 11.3 5 8.4 0 15.3-6.8 15.3-15.3 0-8.4-6.8-15.3-15.3-15.3-8.4 0-15.3 6.8-15.3 15.3 0 2.8 0.8 5.5 2.1 7.7l-5.5 3.3v-26.4zm32.7 17.6c-1.7 1.7-4 2.7-6.6 2.7s-4.9-1-6.6-2.7-2.7-4-2.7-6.6 1-4.9 2.7-6.6 4-2.7 6.6-2.7 4.9 1 6.6 2.7 2.7 4 2.7 6.6c0.1 2.6-1 4.9-2.7 6.6" clip-path="url(#SVGID_2_)"/>
+   <path d="m14.9 18.7v3.1l2.4-1.4v27l12.4-7.4c2.8 3.1 6.8 5 11.3 5 8.4 0 15.3-6.8 15.3-15.3 0-8.4-6.8-15.3-15.3-15.3-8.4 0-15.3 6.8-15.3 15.3 0 2.8 0.8 5.5 2.1 7.7l-5.5 3.3v-26.4zm32.7 17.6c-1.7 1.7-4 2.7-6.6 2.7s-4.9-1-6.6-2.7-2.7-4-2.7-6.6 1-4.9 2.7-6.6 4-2.7 6.6-2.7 4.9 1 6.6 2.7 2.7 4 2.7 6.6c0.1 2.6-1 4.9-2.7 6.6" clip-path="url(#SVGID_2_)"/>
   </g>
  </g>
 </svg>

@@ -1,21 +1,19 @@
-<svg id="a" width="800" height="167.05" version="1.1" viewBox="0 0 211.67 44.199" xmlns="http://www.w3.org/2000/svg">
- <g id="b" transform="translate(21.826 -106.08)">
-  <g id="c" transform="matrix(7.1798 0 0 -7.1798 22.378 128.18)">
-   <path id="d" d="m0 0c0-1.7-1.378-3.078-3.078-3.078s-3.079 1.378-3.079 3.078 1.379 3.078 3.079 3.078 3.078-1.378 3.078-3.078" fill="#3c3c3c"/>
+<svg width="800" height="167.05" version="1.1" viewBox="0 0 211.67 44.199" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(21.826 -106.08)">
+  <g transform="matrix(7.1798 0 0 -7.1798 22.378 128.18)">
+   <path d="m0 0c0-1.7-1.378-3.078-3.078-3.078s-3.079 1.378-3.079 3.078 1.379 3.078 3.079 3.078 3.078-1.378 3.078-3.078" fill="#3c3c3c"/>
   </g>
-  <g id="e">
-   <g id="f" transform="matrix(7.1798 0 0 -7.1798 -2.0502 128.18)">
-    <path id="g" d="m0 0 0.887 0.887 0.889-0.888-0.888-0.887z" fill="#427f3c"/>
-   </g>
-   <g id="h" transform="matrix(7.1798 0 0 -7.1798 -8.3964 134.52)">
-    <path id="i" d="m0 0 0.887 0.887 0.889-0.888-0.888-0.887z" fill="#60b346"/>
-   </g>
-   <g id="j" transform="matrix(7.1798 0 0 -7.1798 -8.4136 121.81)">
-    <path id="k" d="m0 0 0.887 0.887 0.889-0.888-0.887-0.885z" fill="#88c540"/>
-   </g>
+  <g transform="matrix(7.1798 0 0 -7.1798 -2.0502 128.18)">
+   <path d="m0 0 0.887 0.887 0.889-0.888-0.888-0.887z" fill="#427f3c"/>
   </g>
-  <text id="l" x="27.88027" y="150.16765" fill="#000000" font-family="'Bebas Neue Cyrillic'" font-size="62.848px" stroke-width="7.1798">
-   <tspan id="m" x="27.88027 51.5741 63.515285 90.540077 113.66827 134.97386 142.89276 165.26677" y="150.16765" stroke-width="7.1798">pixel.tv</tspan>
+  <g transform="matrix(7.1798 0 0 -7.1798 -8.3964 134.52)">
+   <path d="m0 0 0.887 0.887 0.889-0.888-0.888-0.887z" fill="#60b346"/>
+  </g>
+  <g transform="matrix(7.1798 0 0 -7.1798 -8.4136 121.81)">
+   <path d="m0 0 0.887 0.887 0.889-0.888-0.887-0.885z" fill="#88c540"/>
+  </g>
+  <text x="27.88027" y="150.16765" fill="#000000" font-family="'Bebas Neue Cyrillic'" font-size="62.848px" stroke-width="7.1798">
+   <tspan x="27.88027 51.5741 63.515285 90.540077 113.66827 134.97386 142.89276 165.26677" y="150.16765" stroke-width="7.1798">pixel.tv</tspan>
   </text>
  </g>
 </svg>

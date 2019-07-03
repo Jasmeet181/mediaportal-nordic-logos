@@ -1,8 +1,8 @@
-<svg id="a" width="526.67" height="527.05" version="1.1" viewBox="0 0 139.35 139.45" xmlns="http://www.w3.org/2000/svg">
- <g id="b" transform="translate(19.248 59.433)">
-  <path id="c" d="m120.1 80.015h-139.35v-139.45h139.35z" fill="#e22526"/>
-  <g id="d" transform="matrix(10.979 0 0 -10.979 71.346 -30.192)">
-   <path id="e" d="m0 0v-4.711l-3.624 4.711h-1.904v-7.311h1.782v4.7l3.637-4.7h1.891v7.311z" fill="#fff"/>
+<svg width="526.67" height="527.05" version="1.1" viewBox="0 0 139.35 139.45" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(19.248 59.433)">
+  <path d="m120.1 80.015h-139.35v-139.45h139.35z" fill="#e22526"/>
+  <g transform="matrix(10.979 0 0 -10.979 71.346 -30.192)">
+   <path d="m0 0v-4.711l-3.624 4.711h-1.904v-7.311h1.782v4.7l3.637-4.7h1.891v7.311z" fill="#fff"/>
   </g>
  </g>
 </svg>
