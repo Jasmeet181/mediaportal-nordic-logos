@@ -721,13 +721,6 @@
 			<File>Discovery Showcase HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Discovery World">
-				<Provider>Full Name (Nordic)</Provider>
-				<Provider>Thor 0.8W</Provider>
-			</Item>
-			<File>Discovery World.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Disney Channel HD">
 				<Provider>Full Name (Nordic)</Provider>
 			</Item>
@@ -776,7 +769,6 @@
 		<Channel>
 			<Item Name="Disney XD">
 				<Provider>Astra 4.8E</Provider>
-				<Provider>Boxer TV Access</Provider>
 				<Provider>Full Name (Nordic)</Provider>
 				<Provider>Thor 0.8W</Provider>
 			</Item>
@@ -1536,6 +1528,9 @@
 			<File>Kanal Syd.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Kunskapskanalen HD - Talande Text">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
 			<Item Name="Kunskapskanalen HD - Text">
 				<Provider>Thor 0.8W</Provider>
 			</Item>
@@ -1546,6 +1541,9 @@
 			<File>Kunskapskanalen HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Kunskapskanalen talande text">
+				<Provider>Astra 4.8E</Provider>
+			</Item>
 			<Item Name="Kunskapskanalen">
 				<Provider>Astra 4.8E</Provider>
 				<Provider>Boxer TV Access</Provider>
@@ -2527,7 +2525,13 @@
 			<File>Super RTL.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="SVT Barnkanalen HD/SVT24 HD">
+			<Item Name="SVT Barn HD">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>SVT Barn HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SVT Barn/SVT24 HD">
 				<Provider>Full Name (Nordic)</Provider>
 			</Item>
 			<Item Name="SVT B / SVT 24 HD">
@@ -2536,39 +2540,46 @@
 			<Item Name="SVTB/SVT24 HD">
 				<Provider>Thor 0.8W</Provider>
 			</Item>
+			<Item Name="SVTB/SVT24 HD - Talande Text">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
 			<Item Name="SVTB/SVT24 HD - Text">
 				<Provider>Thor 0.8W</Provider>
 			</Item>
-			<File>SVT Barnkanalen HD SVT24 HD.png</File>
+			<File>SVT Barn SVT24 HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="SVT Barnkanalen HD">
-				<Provider>Full Name (Nordic)</Provider>
-			</Item>
-			<File>SVT Barnkanalen HD.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Barnkanalen/SVT24">
-				<Provider>Boxer TV Access</Provider>
+			<Item Name="Barn/SVT 24 talande text">
+				<Provider>Astra 4.8E</Provider>
 			</Item>
 			<Item Name="SVT B / SVT 24">
 				<Provider>Sappa</Provider>
 			</Item>
-			<Item Name="SVT Barnkanalen/SVT24">
+			<Item Name="SVT Barn/SVT24">
+				<Provider>Boxer TV Access</Provider>
 				<Provider>Full Name (Nordic)</Provider>
 			</Item>
 			<Item Name="SVTB">
 				<Provider>Astra 4.8E</Provider>
 			</Item>
-			<File>SVT Barnkanalen SVT24.png</File>
+			<File>SVT Barn SVT24.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="SVT Barnkanalen">
+			<Item Name="SVT Barn">
 				<Provider>Full Name (Nordic)</Provider>
 			</Item>
-			<File>SVT Barnkanalen.png</File>
+			<Item Name="SVTB">
+				<Provider>Astra 4.8E</Provider>
+			</Item>
+			<File>SVT Barn.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="SVT 1 HD talande text">
+				<Provider>Astra 4.8E</Provider>
+			</Item>
+			<Item Name="SVT1 HD - Talande Text">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
 			<Item Name="SVT1 HD - Text">
 				<Provider>Thor 0.8W</Provider>
 			</Item>
@@ -2650,6 +2661,12 @@
 			<File>SVT1.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="SVT 2 HD talande text">
+				<Provider>Astra 4.8E</Provider>
+			</Item>
+			<Item Name="SVT2 HD - Talande Text">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
 			<Item Name="SVT2 HD - Text">
 				<Provider>Thor 0.8W</Provider>
 			</Item>
