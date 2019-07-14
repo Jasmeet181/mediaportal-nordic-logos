@@ -2103,6 +2103,12 @@
 			<File>Playboy TV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Prime TV">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Prime TV.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Pro TV International">
 				<Provider>Full Name (Nordic)</Provider>
 			</Item>
@@ -2113,12 +2119,6 @@
 				<Provider>Full Name (Nordic)</Provider>
 			</Item>
 			<File>ProSieben.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="PTV Prime">
-				<Provider>Full Name (Nordic)</Provider>
-			</Item>
-			<File>PTV Prime.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Rai 1">
