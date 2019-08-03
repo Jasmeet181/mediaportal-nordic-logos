@@ -65,6 +65,15 @@
 			<File>Adult Channel.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="AdultTV.fi">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<Item Name="Livechat.fi">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>AdultTV.fi.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Aito Iskelma Harju and Pontinen">
 				<Provider>Full Name (Nordic)</Provider>
 			</Item>
@@ -662,12 +671,6 @@
 			<File>Di TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="0700 1 1111 Deitti">
-				<Provider>Full Name (Nordic)</Provider>
-			</Item>
-			<File>Digiviihde.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Discovery Channel HD">
 				<Provider>Full Name (Nordic)</Provider>
 			</Item>
@@ -787,6 +790,15 @@
 				<Provider>Thor 0.8W</Provider>
 			</Item>
 			<File>DK4.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="DNA-infokanava 2">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<Item Name="DNA">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>DNA.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Dom Kino">
@@ -1308,6 +1320,12 @@
 			<File>Hustler TV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Inez">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Inez.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="ID Investigation Discovery (D)">
 				<Provider>Thor 0.8W</Provider>
 			</Item>
@@ -1599,6 +1617,15 @@
 				<Provider>Full Name (Nordic)</Provider>
 			</Item>
 			<File>M2.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Maaseudun Tulevaisuus">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<Item Name="MT">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Maaseudun Tulevaisuus.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Matkanalen">
@@ -3587,12 +3614,6 @@
 				<Provider>Full Name (Nordic)</Provider>
 			</Item>
 			<File>TV5 FI.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="TV5 HD FI">
-				<Provider>Full Name (Nordic)</Provider>
-			</Item>
-			<File>TV5 HD FI.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="TV5Monde Europe">
