@@ -1262,6 +1262,12 @@
 			<File>Hero.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Himlen TV7">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Himlen TV7.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="History HD (S)">
 				<Provider>Thor 0.8W</Provider>
 			</Item>
@@ -2881,6 +2887,12 @@
 				<Provider>Thor 0.8W</Provider>
 			</Item>
 			<File>Telia Liiga UHD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Telia TV Extra">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Telia TV Extra.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Telia">
