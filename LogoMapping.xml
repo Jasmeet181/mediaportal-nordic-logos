@@ -665,9 +665,6 @@
 			<File>Di TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Discovery Channel HD">
-				<Provider>Full Name (Nordic)</Provider>
-			</Item>
 			<Item Name="Discovery HD (D) syn">
 				<Provider>Thor 0.8W</Provider>
 			</Item>
@@ -683,7 +680,23 @@
 			<Item Name="Discovery HD syntolkning">
 				<Provider>Thor 0.8W</Provider>
 			</Item>
-			<File>Discovery Channel HD.png</File>
+			<Item Name="Discovery HD">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Discovery HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Discovery Science">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>Discovery Science.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Discovery Showcase HD">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>Discovery Showcase HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Disc. Channel">
@@ -700,22 +713,11 @@
 			</Item>
 			<Item Name="Discovery Channel">
 				<Provider>Boxer TV Access</Provider>
+			</Item>
+			<Item Name="Discovery">
 				<Provider>Full Name (Nordic)</Provider>
 			</Item>
-			<File>Discovery Channel.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Discovery Science">
-				<Provider>Full Name (Nordic)</Provider>
-				<Provider>Thor 0.8W</Provider>
-			</Item>
-			<File>Discovery Science.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Discovery Showcase HD">
-				<Provider>Full Name (Nordic)</Provider>
-			</Item>
-			<File>Discovery Showcase HD.png</File>
+			<File>Discovery.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Disney Channel HD">
