@@ -2216,12 +2216,6 @@
 			<File>RTK1.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="RTL 2">
-				<Provider>Full Name (Nordic)</Provider>
-			</Item>
-			<File>RTL 2.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="RTL HD">
 				<Provider>Full Name (Nordic)</Provider>
 			</Item>
@@ -2232,6 +2226,12 @@
 				<Provider>Full Name (Nordic)</Provider>
 			</Item>
 			<File>RTL.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RTLZwei">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>RTLZwei.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="RTP Internacional">
