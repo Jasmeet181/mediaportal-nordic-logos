@@ -796,6 +796,7 @@
 			<File>Dom Kino.png</File>
 		</Channel>
 		<Channel>
+		<!-- Closes 02/01/2020-->
 			<Item Name="DR K">
 				<Provider>Astra 4.8E</Provider>
 				<Provider>Full Name (Nordic)</Provider>
@@ -812,6 +813,7 @@
 			<File>DR Ramasjang.png</File>
 		</Channel>
 		<Channel>
+		<!-- Closes 02/01/2020-->
 			<Item Name="DR Ultra">
 				<Provider>Astra 4.8E</Provider>
 				<Provider>Full Name (Nordic)</Provider>
@@ -838,6 +840,7 @@
 			<File>DR2.png</File>
 		</Channel>
 		<Channel>
+		<!-- Closes 02/01/2020-->
 			<Item Name="DR3 HD">
 				<Provider>Thor 0.8W</Provider>
 			</Item>
@@ -882,14 +885,6 @@
 				<Provider>Full Name (Nordic)</Provider>
 			</Item>
 			<File>English Club TV HD.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="EsportsTV HD">
-				<Provider>Astra 4.8E</Provider>
-				<Provider>Full Name (Nordic)</Provider>
-				<Provider>Thor 0.8W</Provider>
-			</Item>
-			<File>EsportsTV HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="EsportsTV">
@@ -1603,15 +1598,6 @@
 				<Provider>Full Name (Nordic)</Provider>
 			</Item>
 			<File>Las Estrellas.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="LifeStyle TV">
-				<Provider>Full Name (Nordic)</Provider>
-			</Item>
-			<Item Name="LifeStyleTV">
-				<Provider>Thor 0.8W</Provider>
-			</Item>
-			<File>LifeStyle TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Liv">
@@ -3470,6 +3456,9 @@
 			<File>TV3 HD SE.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="TV3 Max HD">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
 			<Item Name="TV3 Max">
 				<Provider>Astra 4.8E</Provider>
 				<Provider>Full Name (Nordic)</Provider>
@@ -4028,6 +4017,9 @@
 			<Item Name="Viasat Sport Ultra HD">
 				<Provider>Full Name (Nordic)</Provider>
 			</Item>
+			<Item Name="Viasat Ultra HD">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
 			<File>Viasat Sport Ultra HD.png</File>
 		</Channel>
 		<Channel>
@@ -4309,6 +4301,7 @@
 			<File>DR P6 Beat.png</File>
 		</Channel>
 		<Channel>
+		<!-- Closes 02/01/2020-->
 			<Item Name="DR P7 Mix">
 				<Provider>Full Name (Nordic)</Provider>
 			</Item>
