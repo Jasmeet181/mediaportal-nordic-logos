@@ -3992,6 +3992,14 @@
 			<File>Viasat Series.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Viasat Sport Extra">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>Viasat Sport Extra.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Viasat Sport HD">
 				<Provider>Astra 4.8E</Provider>
 				<Provider>Full Name (Nordic)</Provider>
