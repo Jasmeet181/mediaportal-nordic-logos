@@ -3120,6 +3120,18 @@
 			<File>TV 2 Sport HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="TV 2 Sport X HD">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>TV 2 Sport X HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV 2 Sport X">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>TV 2 Sport X.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="TV 2 Sport">
 				<Provider>Full Name (Nordic)</Provider>
 			</Item>
