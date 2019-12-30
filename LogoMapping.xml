@@ -3554,10 +3554,10 @@
 				<Provider>Astra 4.8E</Provider>
 				<Provider>Thor 0.8W</Provider>
 			</Item>
-			<Item Name="TV3Plus">
+			<Item Name="TV3plus">
 				<Provider>Full Name (Nordic)</Provider>
 			</Item>
-			<File>TV3Plus.png</File>
+			<File>TV3plus.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="TV 4 Fakta">
