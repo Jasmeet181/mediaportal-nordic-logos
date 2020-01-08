@@ -796,30 +796,12 @@
 			<File>Dom Kino.png</File>
 		</Channel>
 		<Channel>
-		<!-- Closes 02/01/2020-->
-			<Item Name="DR K">
-				<Provider>Astra 4.8E</Provider>
-				<Provider>Full Name (Nordic)</Provider>
-				<Provider>Thor 0.8W</Provider>
-			</Item>
-			<File>DR K.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="DR Ramasjang">
 				<Provider>Astra 4.8E</Provider>
 				<Provider>Full Name (Nordic)</Provider>
 				<Provider>Thor 0.8W</Provider>
 			</Item>
 			<File>DR Ramasjang.png</File>
-		</Channel>
-		<Channel>
-		<!-- Closes 02/01/2020-->
-			<Item Name="DR Ultra">
-				<Provider>Astra 4.8E</Provider>
-				<Provider>Full Name (Nordic)</Provider>
-				<Provider>Thor 0.8W</Provider>
-			</Item>
-			<File>DR Ultra.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="DR1 HD">
@@ -832,23 +814,14 @@
 			<File>DR1.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="DR2 HD">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
 			<Item Name="DR2">
 				<Provider>Astra 4.8E</Provider>
 				<Provider>Full Name (Nordic)</Provider>
-				<Provider>Thor 0.8W</Provider>
 			</Item>
 			<File>DR2.png</File>
-		</Channel>
-		<Channel>
-		<!-- Closes 02/01/2020-->
-			<Item Name="DR3 HD">
-				<Provider>Thor 0.8W</Provider>
-			</Item>
-			<Item Name="DR3">
-				<Provider>Astra 4.8E</Provider>
-				<Provider>Full Name (Nordic)</Provider>
-			</Item>
-			<File>DR3.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Dubai TV">
@@ -1979,6 +1952,9 @@
 			<File>NRK1 HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="NRK1 Innlandet">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
 			<Item Name="NRK1 Lydtekst">
 				<Provider>Astra 4.8E</Provider>
 				<Provider>Thor 0.8W</Provider>
@@ -2000,15 +1976,12 @@
 			</Item>
 			<Item Name="NRK1 Østafjells">
 				<Provider>Astra 4.8E</Provider>
-				<Provider>Thor 0.8W</Provider>
 			</Item>
 			<Item Name="NRK1 Østfold">
 				<Provider>Astra 4.8E</Provider>
-				<Provider>Thor 0.8W</Provider>
 			</Item>
 			<Item Name="NRK1 Østnytt">
 				<Provider>Astra 4.8E</Provider>
-				<Provider>Thor 0.8W</Provider>
 			</Item>
 			<Item Name="NRK1 Rogaland">
 				<Provider>Astra 4.8E</Provider>
@@ -2016,6 +1989,9 @@
 			</Item>
 			<Item Name="NRK1 Sørlandet">
 				<Provider>Astra 4.8E</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="NRK1 Vestfold og Telemark">
 				<Provider>Thor 0.8W</Provider>
 			</Item>
 			<Item Name="NRK1 Vestlandsrevyen">
@@ -3128,6 +3104,7 @@
 		<Channel>
 			<Item Name="TV 2 Sport X">
 				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
 			</Item>
 			<File>TV 2 Sport X.png</File>
 		</Channel>
@@ -4322,13 +4299,6 @@
 				<Provider>Full Name (Nordic)</Provider>
 			</Item>
 			<File>DR P6 Beat.png</File>
-		</Channel>
-		<Channel>
-		<!-- Closes 02/01/2020-->
-			<Item Name="DR P7 Mix">
-				<Provider>Full Name (Nordic)</Provider>
-			</Item>
-			<File>DR P7 Mix.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="DR P8 Jazz">
