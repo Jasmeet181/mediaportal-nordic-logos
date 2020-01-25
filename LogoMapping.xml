@@ -1910,7 +1910,6 @@
 		<Channel>
 			<Item Name="Norway Live">
 				<Provider>Full Name (Nordic)</Provider>
-				<Provider>Thor 0.8W</Provider>
 			</Item>
 			<File>Norway Live.png</File>
 		</Channel>
@@ -3935,19 +3934,39 @@
 		<Channel>
 			<Item Name="Viasat Live 1">
 				<Provider>Astra 4.8E</Provider>
+				<Provider>Full Name (Nordic)</Provider>
 			</Item>
+			<File>Viasat Live 1.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Viasat Live 2">
 				<Provider>Astra 4.8E</Provider>
+				<Provider>Full Name (Nordic)</Provider>
 			</Item>
+			<File>Viasat Live 2.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Viasat Live 3">
 				<Provider>Astra 4.8E</Provider>
+				<Provider>Full Name (Nordic)</Provider>
 			</Item>
+			<File>Viasat Live 3.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Viasat Live 4">
 				<Provider>Astra 4.8E</Provider>
+				<Provider>Full Name (Nordic)</Provider>
 			</Item>
+			<File>Viasat Live 4.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Viasat Live 5">
 				<Provider>Astra 4.8E</Provider>
+				<Provider>Full Name (Nordic)</Provider>
 			</Item>
+			<File>Viasat Live 5.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Viasat Live">
 				<Provider>Full Name (Nordic)</Provider>
 			</Item>
