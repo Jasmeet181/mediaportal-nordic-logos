@@ -3307,18 +3307,6 @@
 			<File>TV2 HD NO.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="TV2 Humorkanalen">
-				<Provider>Astra 4.8E</Provider>
-			</Item>
-			<Item Name="TV 2 Humor HD">
-				<Provider>Thor 0.8W</Provider>
-			</Item>
-			<Item Name="TV2 Humor">
-				<Provider>Full Name (Nordic)</Provider>
-			</Item>
-			<File>TV2 Humor.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="TV 2 Livsstil HD">
 				<Provider>Thor 0.8W</Provider>
 			</Item>
