@@ -3,6 +3,12 @@
 <!-- ******************************************************************** -->
 	<TV>
 		<Channel>
+			<Item Name="1HD Music Television">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>1HD Music Television.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="24 Horas">
 				<Provider>Full Name (Nordic)</Provider>
 			</Item>
