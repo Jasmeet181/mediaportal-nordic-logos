@@ -2521,6 +2521,9 @@
 			<File>Stofa.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Strive Sport TV HD">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
 			<Item Name="Strive Sport">
 				<Provider>Full Name (Nordic)</Provider>
 			</Item>
@@ -3792,6 +3795,7 @@
 			</Item>
 			<Item Name="Viasat Film Action HD">
 				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
 			</Item>
 			<File>Viasat Film Action HD.png</File>
 		</Channel>
@@ -3813,6 +3817,7 @@
 			</Item>
 			<Item Name="Viasat Film Family">
 				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
 			</Item>
 			<File>Viasat Film Family.png</File>
 		</Channel>
@@ -3822,6 +3827,7 @@
 			</Item>
 			<Item Name="Viasat Film Hits HD">
 				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
 			</Item>
 			<File>Viasat Film Hits HD.png</File>
 		</Channel>
@@ -3835,6 +3841,7 @@
 			<Item Name="Viasat Film Premiere HD">
 				<Provider>Astra 4.8E</Provider>
 				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
 			</Item>
 			<File>Viasat Film Premiere HD.png</File>
 		</Channel>
