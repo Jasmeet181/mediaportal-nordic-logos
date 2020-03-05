@@ -3251,10 +3251,16 @@
 			<File>TV Tonic.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="TV Vest">
+			<Item Name="TV Vest Hordaland">
 				<Provider>Full Name (Nordic)</Provider>
 			</Item>
-			<File>TV Vest.png</File>
+			<File>TV Vest Hordaland.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV Vest Rogaland">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>TV Vest Rogaland.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="TV Vision Sverige">
