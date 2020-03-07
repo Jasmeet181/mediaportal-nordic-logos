@@ -156,13 +156,6 @@
 			<File>ATV Avrupa.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Auto Motor og Sport TV">
-				<Provider>Full Name (Nordic)</Provider>">
-				<Provider>Thor 0.8W</Provider>
-			</Item>
-			<File>Auto Motor og Sport TV.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="AVA">
 				<Provider>Full Name (Nordic)</Provider>
 			</Item>
@@ -225,6 +218,13 @@
 				<Provider>Full Name (Nordic)</Provider>
 			</Item>
 			<File>Bein Gurme.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Bilkanalen Auto Motor og Sport TV">
+				<Provider>Full Name (Nordic)</Provider>">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>Bilkanalen Auto Motor og Sport TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Bloomberg Television">
@@ -3251,16 +3251,16 @@
 			<File>TV Tonic.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="TV Vest Hordaland">
-				<Provider>Full Name (Nordic)</Provider>
-			</Item>
-			<File>TV Vest Hordaland.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="TV Vest Rogaland">
 				<Provider>Full Name (Nordic)</Provider>
 			</Item>
 			<File>TV Vest Rogaland.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV Vest Vestland">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>TV Vest Vestland.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="TV Vision Sverige">
