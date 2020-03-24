@@ -3104,6 +3104,9 @@
 			<File>TV 2 Sport HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="TV2 Sport X HD">
+				<Provider>Astra 4.8E</Provider>
+			</Item>
 			<Item Name="TV 2 Sport X HD">
 				<Provider>Full Name (Nordic)</Provider>
 			</Item>
