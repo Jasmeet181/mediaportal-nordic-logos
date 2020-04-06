@@ -1197,12 +1197,18 @@
 			<File>God TV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Godare">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>Godare.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Gospel Channel Europe">
 				<Provider>Thor 0.8W</Provider>
 			</Item>
 			<Item Name="Gospel Channel">
 				<Provider>Full Name (Nordic)</Provider>
-			</Item>>
+			</Item>
 			<File>Gospel Channel.png</File>
 		</Channel>
 		<Channel>
