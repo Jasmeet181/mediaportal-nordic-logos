@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <Mappings>
 <!-- ******************************************************************** -->
+		<!-- 01/06/2020 MTV Dance becomes Club MTV -->
 	<TV>
 		<Channel>
 			<Item Name="1HD Music Television">
