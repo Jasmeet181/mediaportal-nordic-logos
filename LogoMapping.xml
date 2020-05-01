@@ -3481,10 +3481,10 @@
 		<Channel>
 			<Item Name="TV3 Puls HD">
 				<Provider>Astra 4.8E</Provider>
+				<Provider>Thor 0.8W</Provider>
 			</Item>
 			<Item Name="TV3 Puls">
 				<Provider>Full Name (Nordic)</Provider>
-				<Provider>Thor 0.8W</Provider>
 			</Item>
 			<File>TV3 Puls.png</File>
 		</Channel>
