@@ -982,6 +982,13 @@
 			<File>Eurosport Pluss 1.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Eurosport Pluss 1 HD">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>Eurosport Pluss 1 HD.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Eurosport Pluss 10">
 				<Provider>Full Name (Nordic)</Provider>
 			</Item>
@@ -1007,6 +1014,13 @@
 			<File>Eurosport Pluss 2.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Eurosport Pluss 2 HD">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>Eurosport Pluss 2 HD.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Eurosport Pluss 3">
 				<Provider>Full Name (Nordic)</Provider>
 				<Provider>Thor 0.8W</Provider>
@@ -1014,11 +1028,25 @@
 			<File>Eurosport Pluss 3.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Eurosport Pluss 3 HD">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>Eurosport Pluss 3 HD.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Eurosport Pluss 4">
 				<Provider>Full Name (Nordic)</Provider>
 				<Provider>Thor 0.8W</Provider>
 			</Item>
 			<File>Eurosport Pluss 4.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Eurosport Pluss 4 HD">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>Eurosport Pluss 4 HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Eurosport Pluss 5">
