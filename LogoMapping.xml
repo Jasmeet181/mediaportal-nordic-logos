@@ -3783,6 +3783,290 @@
 			<File>Utrop TV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="V Film Action HD">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>V Film Action HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="V Film Action">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>V Film Action.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="V Film Family HD">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>V Film Family HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="V Film Family">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>V Film Family.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="V Film Hits HD">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>V Film Hits HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="V Film Hits">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>V Film Hits.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="V Film Premiere HD">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>V Film Premiere HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="V Film Premiere">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>V Film Premiere.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="V Series HD">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>V Series HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="V Series">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>V Series.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="V Sport 1 HD (S)">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="V Sport 1 HD">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>V Sport 1 HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="V Sport 1">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>V Sport 1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="V Sport 2 HD">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>V Sport 2 HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="V Sport 2">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>V Sport 2.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="V Sport 3 HD">
+				<Provider>Thor 0.8W</Provider>
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>V Sport 3 HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="V Sport 3">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>V Sport 3.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="V Sport Extra HD">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>V Sport Extra HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="V Sport Extra">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>V Sport Extra.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="V Sport Football HD (S)">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="V Sport Football HD">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>V Sport Football HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="V Sport Football">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>V Sport Football.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="V Sport Golf HD">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>V Sport Golf HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="V Sport Golf">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>V Sport Golf.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="V Sport Hockey HD (S)">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="V Sport Hockey HD">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>V Sport Hockey HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="V Sport Hockey">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>V Sport Hockey.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="V Sport Jääkiekko HD">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>V Sport Jaakiekko HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="V Sport Jääkiekko">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>V Sport Jaakiekko.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="V Sport Jalkapallo HD">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>V Sport Jalkapallo HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="V Sport Jalkapallo">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>V Sport Jalkapallo.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="V Sport Live 1">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>V Sport Live 1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="V Sport Live 2">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>V Sport Live 2.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="V Sport Live 3">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>V Sport Live 3.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="V Sport Live 4">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>V Sport Live 4.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="V Sport Live 5">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>V Sport Live 5.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="V Sport Live">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>V Sport Live.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="V Sport Motor HD">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>V Sport Motor HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="V Sport Motor">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>V Sport Motor.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="V Sport + HD">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>V Sport Pluss HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="V Sport +">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>V Sport Pluss.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="V Sport Premium HD (S)">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<Item Name="V Sport Premium HD">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>V Sport Premium HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="V Sport Premium">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>V Sport Premium.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="V Sport Ultra HD">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>V Sport Ultra HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="V Sport Urheilu HD">
+				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>V Sport Urheilu HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="V Sport Urheilu">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>V Sport Urheilu.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="VGTV HD">
 				<Provider>Thor 0.8W</Provider>
 			</Item>
@@ -3809,9 +4093,11 @@
 			<File>VH1.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="V4 HD">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
 			<Item Name="Viasat 4 HD">
 				<Provider>Astra 4.8E</Provider>
-				<Provider>Thor 0.8W</Provider>
 			</Item>
 			<Item Name="Viasat 4">
 				<Provider>Full Name (Nordic)</Provider>
@@ -3833,95 +4119,6 @@
 			<File>Viasat Explore.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="VFActionHD">
-				<Provider>Astra 4.8E</Provider>
-			</Item>
-			<Item Name="Viasat Film Action HD">
-				<Provider>Full Name (Nordic)</Provider>
-				<Provider>Thor 0.8W</Provider>
-			</Item>
-			<File>Viasat Film Action HD.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Viasat Film Action">
-				<Provider>Full Name (Nordic)</Provider>
-			</Item>
-			<File>Viasat Film Action.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Viasat Film Family HD">
-				<Provider>Full Name (Nordic)</Provider>
-			</Item>
-			<File>Viasat Film Family HD.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="VFilm Family">
-				<Provider>Astra 4.8E</Provider>
-			</Item>
-			<Item Name="Viasat Film Family">
-				<Provider>Full Name (Nordic)</Provider>
-				<Provider>Thor 0.8W</Provider>
-			</Item>
-			<File>Viasat Film Family.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="VFilm Hits HD">
-				<Provider>Astra 4.8E</Provider>
-			</Item>
-			<Item Name="Viasat Film Hits HD">
-				<Provider>Full Name (Nordic)</Provider>
-				<Provider>Thor 0.8W</Provider>
-			</Item>
-			<File>Viasat Film Hits HD.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Viasat Film Hits">
-				<Provider>Full Name (Nordic)</Provider>
-			</Item>
-			<File>Viasat Film Hits.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Viasat Film Premiere HD">
-				<Provider>Astra 4.8E</Provider>
-				<Provider>Full Name (Nordic)</Provider>
-				<Provider>Thor 0.8W</Provider>
-			</Item>
-			<File>Viasat Film Premiere HD.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Viasat Film Premiere">
-				<Provider>Full Name (Nordic)</Provider>
-			</Item>
-			<File>Viasat Film Premiere.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Viasat Fotboll HD">
-				<Provider>Astra 4.8E</Provider>
-				<Provider>Full Name (Nordic)</Provider>
-				<Provider>Thor 0.8W</Provider>
-			</Item>
-			<File>Viasat Fotboll HD.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Viasat Fotboll">
-				<Provider>Full Name (Nordic)</Provider>
-			</Item>
-			<File>Viasat Fotboll.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Viasat Golf HD">
-				<Provider>Astra 4.8E</Provider>
-				<Provider>Full Name (Nordic)</Provider>
-			</Item>
-			<File>Viasat Golf HD.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Viasat Golf">
-				<Provider>Full Name (Nordic)</Provider>
-			</Item>
-			<File>Viasat Golf.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Viasat History HD">
 				<Provider>Astra 4.8E</Provider>
 				<Provider>Full Name (Nordic)</Provider>
@@ -3934,101 +4131,6 @@
 				<Provider>Full Name (Nordic)</Provider>
 			</Item>
 			<File>Viasat History.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Viasat Hockey HD">
-				<Provider>Astra 4.8E</Provider>
-				<Provider>Full Name (Nordic)</Provider>
-				<Provider>Thor 0.8W</Provider>
-			</Item>
-			<File>Viasat Hockey HD.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Viasat Hockey">
-				<Provider>Full Name (Nordic)</Provider>
-			</Item>
-			<File>Viasat Hockey.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Viasat Jääkiekko HD">
-				<Provider>Full Name (Nordic)</Provider>
-				<Provider>Thor 0.8W</Provider>
-			</Item>
-			<File>Viasat Jaakiekko HD.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Viasat Jääkiekko">
-				<Provider>Full Name (Nordic)</Provider>
-			</Item>
-			<File>Viasat Jaakiekko.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Viasat Jalkapallo HD">
-				<Provider>Full Name (Nordic)</Provider>
-				<Provider>Thor 0.8W</Provider>
-			</Item>
-			<File>Viasat Jalkapallo HD.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Viasat Jalkapallo">
-				<Provider>Full Name (Nordic)</Provider>
-			</Item>
-			<File>Viasat Jalkapallo.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Viasat Live 1">
-				<Provider>Astra 4.8E</Provider>
-				<Provider>Full Name (Nordic)</Provider>
-			</Item>
-			<File>Viasat Live 1.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Viasat Live 2">
-				<Provider>Astra 4.8E</Provider>
-				<Provider>Full Name (Nordic)</Provider>
-			</Item>
-			<File>Viasat Live 2.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Viasat Live 3">
-				<Provider>Astra 4.8E</Provider>
-				<Provider>Full Name (Nordic)</Provider>
-			</Item>
-			<File>Viasat Live 3.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Viasat Live 4">
-				<Provider>Astra 4.8E</Provider>
-				<Provider>Full Name (Nordic)</Provider>
-			</Item>
-			<File>Viasat Live 4.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Viasat Live 5">
-				<Provider>Astra 4.8E</Provider>
-				<Provider>Full Name (Nordic)</Provider>
-			</Item>
-			<File>Viasat Live 5.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Viasat Live">
-				<Provider>Full Name (Nordic)</Provider>
-			</Item>
-			<File>Viasat Live.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Viasat Motor HD">
-				<Provider>Astra 4.8E</Provider>
-				<Provider>Full Name (Nordic)</Provider>
-				<Provider>Thor 0.8W</Provider>
-			</Item>
-			<File>Viasat Motor HD.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Viasat Motor">
-				<Provider>Full Name (Nordic)</Provider>
-			</Item>
-			<File>Viasat Motor.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Viasat Nature HD">
@@ -4049,114 +4151,6 @@
 				<Provider>Full Name (Nordic)</Provider>
 			</Item>
 			<File>Viasat Nature.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Viasat Series HD">
-				<Provider>Astra 4.8E</Provider>
-				<Provider>Full Name (Nordic)</Provider>
-				<Provider>Thor 0.8W</Provider>
-			</Item>
-			<File>Viasat Series HD.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Viasat Series">
-				<Provider>Full Name (Nordic)</Provider>
-			</Item>
-			<File>Viasat Series.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Viasat Sport Extra HD">
-				<Provider>Full Name (Nordic)</Provider>
-			</Item>
-			<Item Name="Viasat Sport Extra">
-				<Provider>Astra 4.8E</Provider>
-				<Provider>Full Name (Nordic)</Provider>
-				<Provider>Thor 0.8W</Provider>
-			</Item>
-			<File>Viasat Sport Extra HD.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Viasat Sport HD">
-				<Provider>Astra 4.8E</Provider>
-				<Provider>Full Name (Nordic)</Provider>
-				<Provider>Thor 0.8W</Provider>
-			</Item>
-			<File>Viasat Sport HD.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Viasat Sport Premium HD">
-				<Provider>Astra 4.8E</Provider>
-				<Provider>Full Name (Nordic)</Provider>
-				<Provider>Thor 0.8W</Provider>
-			</Item>
-			<File>Viasat Sport Premium HD.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Viasat Sport Premium">
-				<Provider>Full Name (Nordic)</Provider>
-			</Item>
-			<File>Viasat Sport Premium.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Viasat Sport Ultra HD">
-				<Provider>Full Name (Nordic)</Provider>
-			</Item>
-			<Item Name="Viasat Ultra HD">
-				<Provider>Thor 0.8W</Provider>
-			</Item>
-			<File>Viasat Sport Ultra HD.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Viasat Sport">
-				<Provider>Full Name (Nordic)</Provider>
-			</Item>
-			<File>Viasat Sport.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Viasat Urheilu HD">
-				<Provider>Full Name (Nordic)</Provider>
-				<Provider>Thor 0.8W</Provider>
-			</Item>
-			<File>Viasat Urheilu HD.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Viasat Urheilu">
-				<Provider>Astra 4.8E</Provider>
-				<Provider>Full Name (Nordic)</Provider>
-			</Item>
-			<File>Viasat Urheilu.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Viasport 1">
-				<Provider>Astra 4.8E</Provider>
-				<Provider>Full Name (Nordic)</Provider>
-				<Provider>Thor 0.8W</Provider>
-			</Item>
-			<File>Viasport 1.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Viasport 2">
-				<Provider>Astra 4.8E</Provider>
-				<Provider>Full Name (Nordic)</Provider>
-				<Provider>Thor 0.8W</Provider>
-			</Item>
-			<File>Viasport 2.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Viasport 3">
-				<Provider>Astra 4.8E</Provider>
-				<Provider>Full Name (Nordic)</Provider>
-				<Provider>Thor 0.8W</Provider>
-			</Item>
-			<File>Viasport 3.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Viasport+">
-				<Provider>Astra 4.8E</Provider>
-				<Provider>Full Name (Nordic)</Provider>
-				<Provider>Thor 0.8W</Provider>
-			</Item>
-			<File>ViasportPluss.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Visjon Norge HD">
