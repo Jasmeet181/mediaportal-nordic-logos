@@ -3830,6 +3830,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="V Film Premiere">
+				<Provider>Boxer TV Access</Provider>
 				<Provider>Full Name (Nordic)</Provider>
 			</Item>
 			<File>V Film Premiere.png</File>
@@ -3843,6 +3844,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="V Series">
+				<Provider>Boxer TV Access</Provider>
 				<Provider>Full Name (Nordic)</Provider>
 			</Item>
 			<File>V Series.png</File>
@@ -3859,6 +3861,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="V Sport 1">
+				<Provider>Boxer TV Access</Provider>
 				<Provider>Full Name (Nordic)</Provider>
 			</Item>
 			<File>V Sport 1.png</File>
@@ -4015,6 +4018,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="V Sport Motor">
+				<Provider>Boxer TV Access</Provider>
 				<Provider>Full Name (Nordic)</Provider>
 			</Item>
 			<File>V Sport Motor.png</File>
@@ -4043,6 +4047,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="V Sport Premium">
+				<Provider>Boxer TV Access</Provider>
 				<Provider>Full Name (Nordic)</Provider>
 			</Item>
 			<File>V Sport Premium.png</File>
