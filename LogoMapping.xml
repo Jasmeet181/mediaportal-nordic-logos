@@ -2027,7 +2027,7 @@
 			<Item Name="NRK1 Oslo og Viken">
 				<Provider>Full Name (Nordic)</Provider>
 			</Item>
-			<File>NRK1 Oslo og Vikenpng</File>
+			<File>NRK1 Oslo og Viken.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="NRK1 Rogaland">
@@ -2054,7 +2054,7 @@
 				<Provider>Astra 4.8E</Provider>
 				<Provider>Thor 0.8W</Provider>
 			</Item>
-			<File>NRK1 Vestlandsrevyen</File>
+			<File>NRK1 Vestlandsrevyen.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="NRK1 Lydtekst">
