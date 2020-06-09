@@ -1994,46 +1994,70 @@
 			<Item Name="NRK1 Innlandet">
 				<Provider>Thor 0.8W</Provider>
 			</Item>
-			<Item Name="NRK1 Lydtekst">
-				<Provider>Astra 4.8E</Provider>
-				<Provider>Thor 0.8W</Provider>
-			</Item>
+			<File>NRK1 Innlandet.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="NRK1 Midtnytt">
 				<Provider>Astra 4.8E</Provider>
 				<Provider>Thor 0.8W</Provider>
 			</Item>
+			<File>NRK1 Midtnytt.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="NRK1 Møre og Romsdal">
 				<Provider>Astra 4.8E</Provider>
 				<Provider>Thor 0.8W</Provider>
 			</Item>
+			<File>NRK1 More og Romsdal.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="NRK1 Nordland">
 				<Provider>Thor 0.8W</Provider>
 			</Item>
+			<File>NRK1 Nordland.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="NRK1 Nordnytt">
 				<Provider>Astra 4.8E</Provider>
 				<Provider>Thor 0.8W</Provider>
 			</Item>
-			<Item Name="NRK1 Østafjells">
-				<Provider>Astra 4.8E</Provider>
+			<File>NRK1 Nordnytt.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NRK1 Oslo og Viken">
+				<Provider>Full Name (Nordic)</Provider>
 			</Item>
-			<Item Name="NRK1 Østfold">
-				<Provider>Astra 4.8E</Provider>
-			</Item>
-			<Item Name="NRK1 Østnytt">
-				<Provider>Astra 4.8E</Provider>
-			</Item>
+			<File>NRK1 Oslo og Vikenpng</File>
+		</Channel>
+		<Channel>
 			<Item Name="NRK1 Rogaland">
 				<Provider>Astra 4.8E</Provider>
 				<Provider>Thor 0.8W</Provider>
 			</Item>
+			<File>NRK1 Rogaland.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="NRK1 Sørlandet">
 				<Provider>Astra 4.8E</Provider>
 				<Provider>Thor 0.8W</Provider>
 			</Item>
+			<File>NRK1 Sorlandet.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="NRK1 Vestfold og Telemark">
 				<Provider>Thor 0.8W</Provider>
 			</Item>
+			<File>NRK1 Vestfold og Telemark.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="NRK1 Vestlandsrevyen">
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>NRK1 Vestlandsrevyen</File>
+		</Channel>
+		<Channel>
+			<Item Name="NRK1 Lydtekst">
 				<Provider>Astra 4.8E</Provider>
 				<Provider>Thor 0.8W</Provider>
 			</Item>
@@ -3725,6 +3749,12 @@
 			<File>TV8 SE.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="TVAarhus">
+				<Provider>Full Name (Nordic)</Provider>
+			</Item>
+			<File>TVAarhus.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="TVCG Sat">
 				<Provider>Full Name (Nordic)</Provider>
 			</Item>
@@ -3784,6 +3814,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="V Film Action HD">
+				<Provider>Astra 4.8E</Provider>
 				<Provider>Full Name (Nordic)</Provider>
 				<Provider>Thor 0.8W</Provider>
 			</Item>
@@ -3803,6 +3834,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="V Film Family">
+				<Provider>Astra 4.8E</Provider>
 				<Provider>Full Name (Nordic)</Provider>
 				<Provider>Thor 0.8W</Provider>
 			</Item>
@@ -3810,6 +3842,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="V Film Hits HD">
+				<Provider>Astra 4.8E</Provider>
 				<Provider>Full Name (Nordic)</Provider>
 				<Provider>Thor 0.8W</Provider>
 			</Item>
@@ -3823,6 +3856,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="V Film Premiere HD">
+				<Provider>Astra 4.8E</Provider>
 				<Provider>Full Name (Nordic)</Provider>
 				<Provider>Thor 0.8W</Provider>
 			</Item>
@@ -3837,6 +3871,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="V Series HD">
+				<Provider>Astra 4.8E</Provider>
 				<Provider>Full Name (Nordic)</Provider>
 				<Provider>Thor 0.8W</Provider>
 			</Item>
@@ -3850,6 +3885,9 @@
 			<File>V Series.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="V Sport 1 HD (SE)">
+				<Provider>Astra 4.8E</Provider>
+			</Item>
 			<Item Name="V Sport 1 HD (S)">
 				<Provider>Thor 0.8W</Provider>
 			</Item>
@@ -3860,6 +3898,9 @@
 			<File>V Sport 1 HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="V Sport 1 (NO)">
+				<Provider>Astra 4.8E</Provider>
+			</Item>
 			<Item Name="V Sport 1">
 				<Provider>Boxer TV Access</Provider>
 				<Provider>Full Name (Nordic)</Provider>
@@ -3874,6 +3915,9 @@
 			<File>V Sport 2 HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="V Sport 2 (NO)">
+				<Provider>Astra 4.8E</Provider>
+			</Item>
 			<Item Name="V Sport 2">
 				<Provider>Full Name (Nordic)</Provider>
 			</Item>
@@ -3881,12 +3925,15 @@
 		</Channel>
 		<Channel>
 			<Item Name="V Sport 3 HD">
-				<Provider>Thor 0.8W</Provider>
 				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Thor 0.8W</Provider>
 			</Item>
 			<File>V Sport 3 HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="V Sport 3 (NO)">
+				<Provider>Astra 4.8E</Provider>
+			</Item>
 			<Item Name="V Sport 3">
 				<Provider>Full Name (Nordic)</Provider>
 			</Item>
@@ -3894,6 +3941,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="V Sport Extra HD">
+				<Provider>Astra 4.8E</Provider>
 				<Provider>Full Name (Nordic)</Provider>
 				<Provider>Thor 0.8W</Provider>
 			</Item>
@@ -3910,6 +3958,7 @@
 				<Provider>Thor 0.8W</Provider>
 			</Item>
 			<Item Name="V Sport Football HD">
+				<Provider>Astra 4.8E</Provider>
 				<Provider>Full Name (Nordic)</Provider>
 			</Item>
 			<File>V Sport Football HD.png</File>
@@ -3922,6 +3971,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="V Sport Golf HD">
+				<Provider>Astra 4.8E</Provider>
 				<Provider>Full Name (Nordic)</Provider>
 			</Item>
 			<File>V Sport Golf HD.png</File>
@@ -3937,6 +3987,7 @@
 				<Provider>Thor 0.8W</Provider>
 			</Item>
 			<Item Name="V Sport Hockey HD">
+				<Provider>Astra 4.8E</Provider>
 				<Provider>Full Name (Nordic)</Provider>
 			</Item>
 			<File>V Sport Hockey HD.png</File>
@@ -3975,30 +4026,35 @@
 		</Channel>
 		<Channel>
 			<Item Name="V Sport Live 1">
+				<Provider>Astra 4.8E</Provider>
 				<Provider>Full Name (Nordic)</Provider>
 			</Item>
 			<File>V Sport Live 1.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="V Sport Live 2">
+				<Provider>Astra 4.8E</Provider>
 				<Provider>Full Name (Nordic)</Provider>
 			</Item>
 			<File>V Sport Live 2.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="V Sport Live 3">
+				<Provider>Astra 4.8E</Provider>
 				<Provider>Full Name (Nordic)</Provider>
 			</Item>
 			<File>V Sport Live 3.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="V Sport Live 4">
+				<Provider>Astra 4.8E</Provider>
 				<Provider>Full Name (Nordic)</Provider>
 			</Item>
 			<File>V Sport Live 4.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="V Sport Live 5">
+				<Provider>Astra 4.8E</Provider>
 				<Provider>Full Name (Nordic)</Provider>
 			</Item>
 			<File>V Sport Live 5.png</File>
@@ -4011,6 +4067,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="V Sport Motor HD">
+				<Provider>Astra 4.8E</Provider>
 				<Provider>Full Name (Nordic)</Provider>
 				<Provider>Thor 0.8W</Provider>
 			</Item>
@@ -4031,6 +4088,9 @@
 			<File>V Sport Pluss HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="V Sport + (NO)">
+				<Provider>Astra 4.8E</Provider>
+			</Item>
 			<Item Name="V Sport +">
 				<Provider>Full Name (Nordic)</Provider>
 			</Item>
@@ -4041,6 +4101,7 @@
 				<Provider>Thor 0.8W</Provider>
 			</Item>
 			<Item Name="V Sport Premium HD">
+				<Provider>Astra 4.8E</Provider>
 				<Provider>Full Name (Nordic)</Provider>
 			</Item>
 			<File>V Sport Premium HD.png</File>
@@ -4054,7 +4115,8 @@
 		</Channel>
 		<Channel>
 			<Item Name="V Sport Ultra HD">
-				<Provider>Full Name (Nordic)</Provider>
+				<Provider>Astra 4.8E</Provider>
+				<Provider>Thor 0.8W</Provider>
 			</Item>
 			<File>V Sport Ultra HD.png</File>
 		</Channel>
@@ -4067,6 +4129,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="V Sport Urheilu">
+				<Provider>Astra 4.8E</Provider>
 				<Provider>Full Name (Nordic)</Provider>
 			</Item>
 			<File>V Sport Urheilu.png</File>
@@ -4444,48 +4507,93 @@
 			<Item Name="NRK P1 Buskerud">
 				<Provider>Thor 0.8W</Provider>
 			</Item>
+			<File>NRK P1 Buskerud.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="NRK P1 Finnmark">
 				<Provider>Thor 0.8W</Provider>
 			</Item>
-			<Item Name="NRK P1 Hedmark-Oppland">
-				<Provider>Thor 0.8W</Provider>
-			</Item>
+			<File>NRK P1 Finnmark.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="NRK P1 Hordaland">
 				<Provider>Thor 0.8W</Provider>
 			</Item>
+			<File>NRK P1 Hordaland.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NRK P1 Innlandet">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>NRK P1 Innlandet.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="NRK P1 Møre og Romsdal">
 				<Provider>Thor 0.8W</Provider>
 			</Item>
+			<File>NRK P1 More og Romsdal.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="NRK P1 Nordland">
 				<Provider>Thor 0.8W</Provider>
 			</Item>
-			<Item Name="NRK P1 Oslo">
-				<Provider>Thor 0.8W</Provider>
-			</Item>
+			<File>NRK P1 Nordland.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="NRK P1 Østfold">
 				<Provider>Thor 0.8W</Provider>
 			</Item>
+			<File>NRK P1 Ostfold.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NRK P1 Østlandssendingen">
+				<Provider>Thor 0.8W</Provider>
+			</Item>
+			<File>NRK P1 Ostlandssendingen.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="NRK P1 Rogaland">
 				<Provider>Thor 0.8W</Provider>
 			</Item>
+			<File>NRK P1 Rogaland.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="NRK P1 Sogn og Fjordane">
 				<Provider>Thor 0.8W</Provider>
 			</Item>
+			<File>NRK P1 Sogn og Fjordane.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="NRK P1 Sørlandet">
 				<Provider>Thor 0.8W</Provider>
 			</Item>
+			<File>NRK P1 Sorlandet.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="NRK P1 Telemark">
 				<Provider>Thor 0.8W</Provider>
 			</Item>
+			<File>NRK P1 Telemark.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="NRK P1 Troms">
 				<Provider>Thor 0.8W</Provider>
 			</Item>
+			<File>NRK P1 Troms.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="NRK P1 Trøndelag">
 				<Provider>Thor 0.8W</Provider>
 			</Item>
+			<File>NRK P1 Trondelag.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="NRK P1 Vestfold">
 				<Provider>Thor 0.8W</Provider>
 			</Item>
+			<File>NRK P1 Vestfold.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="NRK P1">
 				<Provider>Full Name (Nordic)</Provider>
 			</Item>
