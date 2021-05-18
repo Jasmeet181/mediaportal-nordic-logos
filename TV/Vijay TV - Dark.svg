@@ -1,0 +1,35 @@
+<svg width="675.58" height="799.94" version="1.1" viewBox="0 0 178.75 211.65" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient2225" x1="36.169" x2="43.304" y1="158.45" y2="151.31" gradientTransform="matrix(9.9968 0 0 9.9968 -327.21 -1500.1)" gradientUnits="userSpaceOnUse" xlink:href="#linear-gradient"/>
+  <linearGradient id="linear-gradient" x1="-601.43" x2="-601.36" y1="78.73" y2="78.73" gradientTransform="matrix(544.95,0,0,-544.95,327812,42917)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ff840f" offset="0"/>
+   <stop stop-color="#ff9b15" offset=".14"/>
+   <stop stop-color="#ffbb1e" offset=".38"/>
+   <stop stop-color="#ffd224" offset=".6"/>
+   <stop stop-color="#ffe028" offset=".82"/>
+   <stop stop-color="#ffe529" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient2217" x1="36.319" x2="46.538" y1="165.39" y2="154.64" gradientTransform="matrix(9.9968 0 0 9.9968 -327.21 -1500.1)" gradientUnits="userSpaceOnUse" xlink:href="#linear-gradient"/>
+  <linearGradient id="linear-gradient-3-6" x1="-603.3" x2="-603.23" y1="72.6" y2="72.6" gradientTransform="matrix(468.53 0 0 -468.53 282812 34055)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ff840f" offset="0"/>
+   <stop stop-color="#ff8c11" offset=".04"/>
+   <stop stop-color="#ffb519" offset=".25"/>
+   <stop stop-color="#ffd520" offset=".45"/>
+   <stop stop-color="#ffec25" offset=".65"/>
+   <stop stop-color="#fffa28" offset=".84"/>
+   <stop stop-color="#ffff29" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path d="m142.5 46.665c-4.6174 0.49184-28.251 9.0709-28.251 9.0709-59.726 26.775-92.403 84.206-92.403 84.206h142.59l-46.475-78.004c10.847-9.4261 24.535-15.273 24.535-15.273z" fill="url(#linearGradient2217)" stop-color="#000000" stroke-width=".27322" style="font-variation-settings:normal"/>
+ <path d="m110.61 49.664 24.262-6.2568s-17.294 2.2678-25.656 3.8798l-28.224-47.322-47.841 80.244c21.639-14.453 53.661-24.508 77.458-30.546z" fill="url(#linearGradient2225)" stroke-width=".27322"/>
+ <path d="m151.64 19.674a18.424 18.424 0 0 1-10.349 23.913 18.424 18.424 0 0 1 23.913 10.349 18.424 18.424 0 0 1 10.349-23.913 18.424 18.424 0 0 1-23.913-10.349z" fill="url(#linear-gradient-3-6)" stop-color="#000000" stroke-width="2.645" style="font-variation-settings:normal;paint-order:stroke fill markers"/>
+ <g class="cls-9" transform="matrix(2.645 0 0 2.645 -148.67 -.016)" clip-path="url(#clip-path-5)" fill="#8e1351">
+  <polygon class="cls-10" points="63.37 76.18 60.63 76.18 56.21 63.44 59.13 63.44 61.99 73.02 64.88 63.44 67.8 63.44"/>
+  <path class="cls-10" d="m69 64.27a1.26 1.26 0 0 1 0.38-0.94 1.47 1.47 0 0 1 1-0.37 1.44 1.44 0 0 1 1 0.37 1.33 1.33 0 0 1 0 1.88 1.42 1.42 0 0 1-1 0.37 1.43 1.43 0 0 1-1-0.37 1.23 1.23 0 0 1-0.39-0.94m2.69 11.91h-2.54v-9.47h2.54z"/>
+  <path class="cls-10" d="m76.62 66.71v10a3.4 3.4 0 0 1-0.83 2.44 3.18 3.18 0 0 1-2.4 0.87 5.1 5.1 0 0 1-1.25-0.15v-2a5 5 0 0 0 0.79 0.08c0.77 0 1.15-0.41 1.15-1.22v-10zm-2.74-2.44a1.26 1.26 0 0 1 0.38-0.94 1.63 1.63 0 0 1 2.07 0 1.34 1.34 0 0 1 0 1.88 1.6 1.6 0 0 1-2 0 1.23 1.23 0 0 1-0.39-0.94"/>
+  <path class="cls-10" d="m84.26 76.18a2.66 2.66 0 0 1-0.26-0.85 3.06 3.06 0 0 1-2.39 1 3.39 3.39 0 0 1-2.3-0.8 2.58 2.58 0 0 1-0.91-2 2.69 2.69 0 0 1 1.11-2.31 5.43 5.43 0 0 1 3.22-0.81h1.17v-0.55a1.52 1.52 0 0 0-0.34-1 1.3 1.3 0 0 0-1.06-0.4 1.46 1.46 0 0 0-1 0.31 1 1 0 0 0-0.37 0.84h-2.52a2.56 2.56 0 0 1 0.5-1.52 3.31 3.31 0 0 1 1.44-1.1 5.15 5.15 0 0 1 2.08-0.4 4.12 4.12 0 0 1 2.78 0.88 3.08 3.08 0 0 1 1 2.47v4.06a4.65 4.65 0 0 0 0.38 2v0.15zm-2.09-1.76a2.15 2.15 0 0 0 1-0.25 1.68 1.68 0 0 0 0.7-0.67v-1.63h-0.87c-1.26 0-1.94 0.44-2 1.32v0.15a1 1 0 0 0 0.34 0.77 1.26 1.26 0 0 0 0.91 0.31"/>
+  <path class="cls-10" d="m92 72.6 1.75-5.89h2.71l-3.85 10.94-0.21 0.5a2.89 2.89 0 0 1-2.8 1.85 4.06 4.06 0 0 1-1.12-0.17v-1.91h0.39a2.14 2.14 0 0 0 1.07-0.22 1.48 1.48 0 0 0 0.56-0.7l0.29-0.78-3.31-9.49h2.72z"/>
+  <polygon class="cls-10" points="107.56 65.57 107.56 76.18 104.94 76.18 104.94 65.57 101.09 65.57 101.09 63.44 111.46 63.44 111.46 65.57"/>
+  <polygon class="cls-10" points="119.35 76.18 116.62 76.18 112.2 63.44 115.11 63.44 117.98 73.02 120.87 63.44 123.79 63.44"/>
+ </g>
+</svg>
