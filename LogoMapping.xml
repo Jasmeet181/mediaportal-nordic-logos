@@ -2,6 +2,7 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
+		00/00/2021 HBO Nordic renamed to HBO Max
 		-->
 		<!--
 		TV3 Sport DK/SE conflict
@@ -902,12 +903,13 @@
 			<File>France 3.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="France 24 - English" />
-			<File>France 24 - English.png</File>
+				<Item Name="France 24 (en Français)" />
+				<Item Name="France 24 (en Francais)" />
+			<File>France 24 en Francais.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="France 24 - Francais" />
-			<File>France 24 - Francais.png</File>
+				<Item Name="France 24 (in English)" />
+			<File>France 24 in English.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Frii">
