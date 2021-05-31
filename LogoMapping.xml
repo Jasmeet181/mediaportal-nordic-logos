@@ -2441,6 +2441,15 @@
 			<File>TV 2 HD DK.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="TV 2 Livsstil HD">
+					<Provider>Thor 0.8W</Provider>
+				</Item>
+				<Item Name="TV 2 Livsstil">
+					<Provider>Astra 4.8E</Provider>
+				</Item>
+			<File>TV 2 Livsstil.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="TV 2 Lorry" />
 				<Item Name="TV2 HD Lorry">
 					<Provider>Astra 4.8E</Provider>
@@ -2461,6 +2470,24 @@
 			<File>TV 2 News.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="TV 2 HD (N)">
+					<Provider>Thor 0.8W</Provider>
+				</Item>
+				<Item Name="TV 2" />
+				<Item Name="TV2 HD">
+					<Provider>Astra 4.8E</Provider>
+				</Item>
+			<File>TV2 NO.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="TV 2 Nyhetskanalen HD">
+					<Provider>Astra 4.8E</Provider>
+					<Provider>Thor 0.8W</Provider>
+				</Item>
+				<Item Name="TV 2 Nyhetskanalen" />
+			<File>TV 2 Nyhetskanalen.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="TV 2 / Østjylland">
 					<Provider>Thor 0.8W</Provider>
 				</Item>
@@ -2471,11 +2498,48 @@
 			<File>TV 2 Ostjylland.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="TV 2 Sport 1" />
+				<Item Name="TV2 Sport 1">
+					<Provider>Astra 4.8E</Provider>
+				</Item>
+			<File>TV 2 Sport 1.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="TV 2 Sport 2 HD">
+					<Provider>Thor 0.8W</Provider>
+				</Item>
+				<Item Name="TV 2 Sport 2" />
+				<Item Name="TV2 Sport 2">
+					<Provider>Astra 4.8E</Provider>
+				</Item>
+			<File>TV 2 Sport 2.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="TV 2 Sport HD">
 					<Provider>Astra 4.8E</Provider>
 					<Provider>Thor 0.8W</Provider>
 				</Item>
 			<File>TV 2 Sport HD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="TV 2 Sport Premium 2 HD">
+					<Provider>Thor 0.8W</Provider>
+				</Item>
+				<Item Name="TV 2 Sport Premium 2" />
+				<Item Name="TV2 Sport Premium 2">
+					<Provider>Astra 4.8E</Provider>
+				</Item>
+			<File>TV 2 Sport Premium 2.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="TV 2 Sport Premium HD">
+					<Provider>Thor 0.8W</Provider>
+				</Item>
+				<Item Name="TV 2 Sport Premium" />
+				<Item Name="TV2 Sport Premium 1">
+					<Provider>Astra 4.8E</Provider>
+				</Item>
+			<File>TV 2 Sport Premium.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="TV2 Sport X HD">
@@ -2493,6 +2557,16 @@
 		<Channel>
 				<Item Name="TV 2 Sport" />
 			<File>TV 2 Sport.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="TV 2 Zebra HD">
+					<Provider>Thor 0.8W</Provider>
+				</Item>
+				<Item Name="TV 2 Zebra" />
+				<Item Name="TV2 Zebra HD">
+					<Provider>Astra 4.8E</Provider>
+				</Item>
+			<File>TV 2 Zebra.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="TV 2 Zulu HD">
@@ -2641,30 +2715,6 @@
 			<File>TV12 SE.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="TV 2 HD (N)">
-					<Provider>Thor 0.8W</Provider>
-				</Item>
-				<Item Name="TV2 HD NO" />
-				<Item Name="TV2 HD">
-					<Provider>Astra 4.8E</Provider>
-				</Item>
-			<File>TV2 HD NO.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="TV 2 Livsstil HD">
-					<Provider>Thor 0.8W</Provider>
-				</Item>
-				<Item Name="TV 2 Livsstil">
-					<Provider>Astra 4.8E</Provider>
-				</Item>
-				<Item Name="TV2 Livsstil" />
-			<File>TV2 Livsstil.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="TV2 NO" />
-			<File>TV2 NO.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="TV 2 / Nord">
 					<Provider>Thor 0.8W</Provider>
 				</Item>
@@ -2672,58 +2722,6 @@
 					<Provider>Astra 4.8E</Provider>
 				</Item>
 			<File>TV2 Nord.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="TV 2 Nyhetskanalen HD">
-					<Provider>Astra 4.8E</Provider>
-					<Provider>Thor 0.8W</Provider>
-				</Item>
-				<Item Name="TV2 Nyhetskanalen" />
-			<File>TV2 Nyhetskanalen.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="TV2 Sport 1">
-					<Provider>Astra 4.8E</Provider>
-				</Item>
-			<File>TV2 Sport 1.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="TV 2 Sport 2 HD">
-					<Provider>Thor 0.8W</Provider>
-				</Item>
-				<Item Name="TV2 Sport 2">
-					<Provider>Astra 4.8E</Provider>
-				</Item>
-			<File>TV2 Sport 2.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="TV 2 Sport Premium 2 HD">
-					<Provider>Thor 0.8W</Provider>
-				</Item>
-				<Item Name="TV2 Sport Premium 2">
-					<Provider>Astra 4.8E</Provider>
-				</Item>
-			<File>TV2 Sport Premium 2.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="TV 2 Sport Premium HD">
-					<Provider>Thor 0.8W</Provider>
-				</Item>
-				<Item Name="TV2 Sport Premium 1">
-					<Provider>Astra 4.8E</Provider>
-				</Item>
-				<Item Name="TV2 Sport Premium" />
-			<File>TV2 Sport Premium.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="TV 2 Zebra HD">
-					<Provider>Thor 0.8W</Provider>
-				</Item>
-				<Item Name="TV2 Zebra HD">
-					<Provider>Astra 4.8E</Provider>
-				</Item>
-				<Item Name="TV2 Zebra" />
-			<File>TV2 Zebra.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="TV2Stad" />
