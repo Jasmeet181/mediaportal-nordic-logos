@@ -1963,13 +1963,6 @@
 			<File>Stofa.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Strive Sport TV HD">
-					<Provider>Thor 0.8W</Provider>
-				</Item>
-				<Item Name="Strive Sport" />
-			<File>Strive Sport.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="Sub">
 					<Provider>Digita</Provider>
 					<Provider>Thor 0.8W</Provider>
@@ -2031,6 +2024,25 @@
 			<File>SVT Barn.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="SVT1 Dalarna">
+					<Provider>Astra 4.8E</Provider>
+					<Provider>Thor 0.8W</Provider>
+				</Item>
+			<File>SVT1 Dalarna.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="SVT1 Gävleborg">
+					<Provider>Thor 0.8W</Provider>
+				</Item>
+			<File>SVT1 Gavleborg.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="SVT1 HD Stockholm">
+					<Provider>Boxer TV Access</Provider>
+				</Item>
+			<File>SVT1 HD Stockholm.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="SVT 1 HD talande text">
 					<Provider>Astra 4.8E</Provider>
 				</Item>
@@ -2050,69 +2062,172 @@
 			<File>SVT1 HD.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="SVT 1">
-					<Provider>Sappa</Provider>
-				</Item>
-				<Item Name="SVT1 Dalarna">
-					<Provider>Astra 4.8E</Provider>
-					<Provider>Thor 0.8W</Provider>
-				</Item>
-				<Item Name="SVT1 Gävleborg">
-					<Provider>Thor 0.8W</Provider>
-				</Item>
 				<Item Name="SVT1 Jämtland">
 					<Provider>Thor 0.8W</Provider>
 				</Item>
+			<File>SVT1 Jamtland.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="SVT1 Jönköping">
 					<Provider>Thor 0.8W</Provider>
 				</Item>
+			<File>SVT1 Jonkoping.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="SVT1 Norrbotten">
 					<Provider>Astra 4.8E</Provider>
 					<Provider>Thor 0.8W</Provider>
 				</Item>
+			<File>SVT1 Norrbotten.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="SVT1 Örebro">
 					<Provider>Astra 4.8E</Provider>
 					<Provider>Thor 0.8W</Provider>
 				</Item>
+			<File>SVT1 Orebro.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="SVT1 Öst">
-					<Provider>Astra 4.8E</Provider>
 					<Provider>Thor 0.8W</Provider>
 				</Item>
+			<File>SVT1 Ost.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="SVT1 Skåne">
-					<Provider>Astra 4.8E</Provider>
 					<Provider>Thor 0.8W</Provider>
 				</Item>
+			<File>SVT1 Skane.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="SVT1 Småland">
-					<Provider>Astra 4.8E</Provider>
 					<Provider>Thor 0.8W</Provider>
 				</Item>
+			<File>SVT1 Smaland.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="SVT1 Sörmland">
-					<Provider>Boxer TV Access</Provider>
+					<Provider>Thor 0.8W</Provider>
 				</Item>
+			<File>SVT1 Sormland.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="SVT1 Stockholm">
-					<Provider>Boxer TV Access</Provider>
+					<Provider>Thor 0.8W</Provider>
+				</Item>
+			<File>SVT1 Stockholm.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="SVT1 Värmland">
+					<Provider>Thor 0.8W</Provider>
+				</Item>
+			<File>SVT1 Varmland.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="SVT1 Väst">
+					<Provider>Thor 0.8W</Provider>
+				</Item>
+			<File>SVT1 Vast.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="SVT1 Västerbotten">
+					<Provider>Thor 0.8W</Provider>
+				</Item>
+			<File>SVT1 Vasterbotten.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="SVT1 Västernorrland">
+					<Provider>Thor 0.8W</Provider>
+				</Item>
+			<File>SVT1 Vasternorrland.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="SVT 1">
+					<Provider>Sappa</Provider>
 				</Item>
 				<Item Name="SVT1 Talande Text">
 					<Provider>Tele2</Provider>
 				</Item>
-				<Item Name="SVT1 Värmland">
-					<Provider>Astra 4.8E</Provider>
-					<Provider>Thor 0.8W</Provider>
-				</Item>
-				<Item Name="SVT1 Väst">
-					<Provider>Astra 4.8E</Provider>
-					<Provider>Thor 0.8W</Provider>
-				</Item>
-				<Item Name="SVT1 Västerbotten">
-					<Provider>Astra 4.8E</Provider>
-					<Provider>Thor 0.8W</Provider>
-				</Item>
-				<Item Name="SVT1 Västernorrland">
-					<Provider>Astra 4.8E</Provider>
-					<Provider>Thor 0.8W</Provider>
-				</Item>
 				<Item Name="SVT1" />
 			<File>SVT1.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="SVT2 Dalarna">
+					<Provider>Astra 4.8E</Provider>
+				</Item>
+			<File>SVT2 Dalarna.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="SVT2 Norrbotten">
+					<Provider>Astra 4.8E</Provider>
+				</Item>
+			<File>SVT2 Norrbotten.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="SVT2 Örebro">
+					<Provider>Astra 4.8E</Provider>
+				</Item>
+			<File>SVT2 Orebro.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="SVT2 Öst">
+					<Provider>Astra 4.8E</Provider>
+				</Item>
+			<File>SVT2 Ost.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="SVT2 Skåne">
+					<Provider>Astra 4.8E</Provider>
+				</Item>
+			<File>SVT2 Skane.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="SVT2 Småland">
+					<Provider>Astra 4.8E</Provider>
+				</Item>
+			<File>SVT2 Smaland.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="SVT2 Sörmland">
+					<Provider>Boxer TV Access</Provider>
+				</Item>
+			<File>SVT2 Sormland.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="SVT2 Stockholm">
+					<Provider>Boxer TV Access</Provider>
+				</Item>
+			<File>SVT2 Stockholm.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="SVT2 Värmland">
+					<Provider>Astra 4.8E</Provider>
+				</Item>
+			<File>SVT2 Varmland.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="SVT2 Väst">
+					<Provider>Astra 4.8E</Provider>
+				</Item>
+			<File>SVT2 Vast.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="SVT2 Västerbotten">
+					<Provider>Astra 4.8E</Provider>
+				</Item>
+			<File>SVT2 Vasterbotten.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="SVT2 Västernorrland">
+					<Provider>Astra 4.8E</Provider>
+				</Item>
+			<File>SVT2 Vasternorrland.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="SVT2 HD Stockholm">
+					<Provider>Boxer TV Access</Provider>
+				</Item>
+			<File>SVT2 HD Stockholm.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="SVT 2 HD talande text">
@@ -2124,9 +2239,6 @@
 				<Item Name="SVT2 HD - Text">
 					<Provider>Thor 0.8W</Provider>
 				</Item>
-				<Item Name="SVT2 HD Stockholm">
-					<Provider>Boxer TV Access</Provider>
-				</Item>
 				<Item Name="SVT2 HD">
 					<Provider>Astra 4.8E</Provider>
 					<Provider>Thor 0.8W</Provider>
@@ -2137,44 +2249,8 @@
 				<Item Name="SVT 2">
 					<Provider>Sappa</Provider>
 				</Item>
-				<Item Name="SVT2 Dalarna">
-					<Provider>Astra 4.8E</Provider>
-				</Item>
-				<Item Name="SVT2 Norrbotten">
-					<Provider>Astra 4.8E</Provider>
-				</Item>
-				<Item Name="SVT2 Örebro">
-					<Provider>Astra 4.8E</Provider>
-				</Item>
-				<Item Name="SVT2 Öst">
-					<Provider>Astra 4.8E</Provider>
-				</Item>
-				<Item Name="SVT2 Skåne">
-					<Provider>Astra 4.8E</Provider>
-				</Item>
-				<Item Name="SVT2 Småland">
-					<Provider>Astra 4.8E</Provider>
-				</Item>
-				<Item Name="SVT2 Sörmland">
-					<Provider>Boxer TV Access</Provider>
-				</Item>
-				<Item Name="SVT2 Stockholm">
-					<Provider>Boxer TV Access</Provider>
-				</Item>
 				<Item Name="SVT2 Talande Text">
 					<Provider>Tele2</Provider>
-				</Item>
-				<Item Name="SVT2 Värmland">
-					<Provider>Astra 4.8E</Provider>
-				</Item>
-				<Item Name="SVT2 Väst">
-					<Provider>Astra 4.8E</Provider>
-				</Item>
-				<Item Name="SVT2 Västerbotten">
-					<Provider>Astra 4.8E</Provider>
-				</Item>
-				<Item Name="SVT2 Västernorrland">
-					<Provider>Astra 4.8E</Provider>
 				</Item>
 				<Item Name="SVT2" />
 			<File>SVT2.png</File>
