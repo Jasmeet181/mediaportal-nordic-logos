@@ -75,8 +75,7 @@
 				<Item Name="Al Jazeera">
 					<Provider>Boxer TV Access</Provider>
 				</Item>
-				<Item Name="Al Jazeera English" />
-				<Item Name="AlJazeera English">
+				<Item Name="Al Jazeera English">
 					<Provider>Thor 0.8W</Provider>
 				</Item>
 			<File>Al Jazeera English.png</File>
