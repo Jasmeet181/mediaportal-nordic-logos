@@ -456,15 +456,20 @@
 			<File>CBS Reality.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="CGTN Documentary">
+				<Item Name="CGTN Documentary HD">
 					<Provider>Thor 0.8W</Provider>
 				</Item>
+				<Item Name="CGTN Documentary" />
 			<File>CGTN Documentary.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="CGTN">
+				<Item Name="CGTN HD">
 					<Provider>Thor 0.8W</Provider>
 				</Item>
+			<File>CGTN HD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="CGTN" />
 			<File>CGTN.png</File>
 		</Channel>
 		<Channel>
@@ -2267,12 +2272,6 @@
 		<Channel>
 				<Item Name="Taivas TV7" />
 			<File>Taivas TV7.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="TBN Nordic">
-					<Provider>Astra 4.8E</Provider>
-				</Item>
-			<File>TBN Nordic.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Telenor" />
