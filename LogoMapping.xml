@@ -559,10 +559,6 @@
 			<File>Discovery Science.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Discovery Showcase HD" />
-			<File>Discovery Showcase HD.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="Disc. Channel">
 					<Provider>Tele2</Provider>
 				</Item>
