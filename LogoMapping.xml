@@ -749,6 +749,54 @@
 			<File>Eurosport 2.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Eurosport 3 HD">
+					<Provider>Thor 0.8W</Provider>
+				</Item>
+			<File>Eurosport 3 HD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Eurosport 4 HD">
+					<Provider>Thor 0.8W</Provider>
+				</Item>
+			<File>Eurosport 4 HD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Eurosport 4K">
+					<Provider>Thor 0.8W</Provider>
+				</Item>
+			<File>Eurosport 4K.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Eurosport 5 HD">
+					<Provider>Thor 0.8W</Provider>
+				</Item>
+			<File>Eurosport 5 HD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Eurosport 6 HD">
+					<Provider>Thor 0.8W</Provider>
+				</Item>
+			<File>Eurosport 6 HD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Eurosport 7 HD">
+					<Provider>Thor 0.8W</Provider>
+				</Item>
+			<File>Eurosport 7 HD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Eurosport 8 HD">
+					<Provider>Thor 0.8W</Provider>
+				</Item>
+			<File>Eurosport 8 HD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Eurosport 9 HD">
+					<Provider>Thor 0.8W</Provider>
+				</Item>
+			<File>Eurosport 9 HD.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Eurosport Norge HD">
 					<Provider>Astra 4.8E</Provider>
 					<Provider>Thor 0.8W</Provider>
@@ -3495,12 +3543,6 @@
 					<Provider>Astra 4.8E</Provider>
 				</Item>
 			<File>Vox NO.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Wow! 4K">
-					<Provider>Thor 0.8W</Provider>
-				</Item>
-			<File>Wow 4K.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Xee" />
