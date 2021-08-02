@@ -1394,6 +1394,15 @@
 			<File>Motorvision TV.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="MTV 00s" />
+				<Item Name="VH1">
+					<Provider>Astra 4.8E</Provider>
+					<Provider>Boxer TV Access</Provider>
+					<Provider>Thor 0.8W</Provider>
+				</Item>
+			<File>MTV 00s.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="MTV 80s">
 					<Provider>Thor 0.8W</Provider>
 				</Item>
@@ -3453,14 +3462,6 @@
 					<Provider>Astra 4.8E</Provider>
 				</Item>
 			<File>VH1 Classic.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="VH1">
-					<Provider>Astra 4.8E</Provider>
-					<Provider>Boxer TV Access</Provider>
-					<Provider>Thor 0.8W</Provider>
-				</Item>
-			<File>VH1.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="V4 HD">
