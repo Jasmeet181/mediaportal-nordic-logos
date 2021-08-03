@@ -2,7 +2,6 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
-		02/08/2021 New MTV logos
 		00/00/2021 HBO Nordic renamed to HBO Max
 		-->
 		<!--
@@ -721,8 +720,6 @@
 		<Channel>
 				<Item Name="Eurosport 1">
 					<Provider>Astra 4.8E</Provider>
-				</Item>
-				<Item Name="Eurosport">
 					<Provider>Boxer TV Access</Provider>
 				</Item>
 			<File>Eurosport 1.png</File>
@@ -1394,12 +1391,7 @@
 			<File>Motorvision TV.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="MTV 00s" />
-				<Item Name="VH1">
-					<Provider>Astra 4.8E</Provider>
-					<Provider>Boxer TV Access</Provider>
-					<Provider>Thor 0.8W</Provider>
-				</Item>
+				<Item Name="MTV 00s"/>
 			<File>MTV 00s.png</File>
 		</Channel>
 		<Channel>
@@ -3462,6 +3454,13 @@
 					<Provider>Astra 4.8E</Provider>
 				</Item>
 			<File>VH1 Classic.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="VH1">
+					<Provider>Astra 4.8E</Provider>
+					<Provider>Thor 0.8W</Provider>
+				</Item>
+			<File>VH1.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="V4 HD">
