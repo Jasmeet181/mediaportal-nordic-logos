@@ -111,6 +111,9 @@
 			<File>Arte HD.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="ATG Live HD">
+					<Provider>Thor 0.8W</Provider>
+				</Item>
 				<Item Name="ATG Live" />
 			<File>ATG Live.png</File>
 		</Channel>
@@ -1391,7 +1394,9 @@
 			<File>Motorvision TV.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="MTV 00s"/>
+				<Item Name="MTV 00s">
+					<Provider>Thor 0.8W</Provider>
+				</Item>
 			<File>MTV 00s.png</File>
 		</Channel>
 		<Channel>
@@ -3458,7 +3463,6 @@
 		<Channel>
 				<Item Name="VH1">
 					<Provider>Astra 4.8E</Provider>
-					<Provider>Thor 0.8W</Provider>
 				</Item>
 			<File>VH1.png</File>
 		</Channel>
