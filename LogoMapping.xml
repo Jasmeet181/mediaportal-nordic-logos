@@ -1395,6 +1395,7 @@
 		</Channel>
 		<Channel>
 				<Item Name="MTV 00s">
+					<Provider>Astra 4.8E</Provider>
 					<Provider>Thor 0.8W</Provider>
 				</Item>
 			<File>MTV 00s.png</File>
@@ -3459,12 +3460,6 @@
 					<Provider>Astra 4.8E</Provider>
 				</Item>
 			<File>VH1 Classic.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="VH1">
-					<Provider>Astra 4.8E</Provider>
-				</Item>
-			<File>VH1.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="V4 HD">
