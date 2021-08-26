@@ -1016,6 +1016,13 @@
 			<File>HBO Nordic.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Heim TV" />
+				<Item Name="Heim">
+					<Provider>Thor 0.8W</Provider>
+				</Item>
+			<File>Heim TV.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Hero">
 					<Provider>Digita</Provider>
 				</Item>
