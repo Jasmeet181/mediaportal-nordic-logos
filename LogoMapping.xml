@@ -3710,12 +3710,6 @@
 			<File>NRJ.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="NRK Alltid Nyheter">
-					<Provider>Thor 0.8W</Provider>
-				</Item>
-			<File>NRK Alltid Nyheter.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="NRK Folkemusikk">
 					<Provider>Thor 0.8W</Provider>
 				</Item>
@@ -3738,6 +3732,13 @@
 					<Provider>Thor 0.8W</Provider>
 				</Item>
 			<File>NRK MP3.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="NRK Nyheter">
+					<Provider>Astra 4.8E</Provider>
+					<Provider>Thor 0.8W</Provider>
+				</Item>
+			<File>NRK Nyheter.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="NRK P1 Buskerud">
