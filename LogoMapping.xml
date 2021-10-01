@@ -3,6 +3,7 @@
 <!-- ******************************************************************** -->
 		<!--
 		26/10/2021 HBO Nordic renamed to HBO Max
+		01/11/2021 V Sport Hockey/HD renamed to V Sport Vinter/HD
 		-->
 		<!--
 		TV3 Sport DK/SE conflict
@@ -3260,6 +3261,16 @@
 			<File>V Sport 1 HD.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="V Sport 1 Suomi HD">
+					<Provider>Thor 0.8W</Provider>
+				</Item>
+			<File>V Sport 1 Suomi HD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="V Sport 1 Suomi" />
+			<File>V Sport 1 Suomi.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="V Sport 1 (NO)">
 					<Provider>Astra 4.8E</Provider>
 				</Item>
@@ -3273,6 +3284,16 @@
 					<Provider>Thor 0.8W</Provider>
 				</Item>
 			<File>V Sport 2 HD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="V Sport 2 Suomi HD">
+					<Provider>Thor 0.8W</Provider>
+				</Item>
+			<File>V Sport 2 Suomi HD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="V Sport 2 Suomi" />
+			<File>V Sport 2 Suomi.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="V Sport 2 (NO)">
@@ -3342,26 +3363,6 @@
 			<File>V Sport Hockey.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="V Sport Jääkiekko HD">
-					<Provider>Thor 0.8W</Provider>
-				</Item>
-			<File>V Sport Jaakiekko HD.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="V Sport Jääkiekko" />
-			<File>V Sport Jaakiekko.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="V Sport Jalkapallo HD">
-					<Provider>Thor 0.8W</Provider>
-				</Item>
-			<File>V Sport Jalkapallo HD.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="V Sport Jalkapallo" />
-			<File>V Sport Jalkapallo.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="V Sport Live 1">
 					<Provider>Astra 4.8E</Provider>
 				</Item>
@@ -3409,6 +3410,18 @@
 			<File>V Sport Motor.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="V Sport + Suomi HD">
+					<Provider>Thor 0.8W</Provider>
+				</Item>
+			<File>V Sport Plus Suomi HD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="V Sport + Suomi ">
+					<Provider>Astra 4.8E</Provider>
+				</Item>
+			<File>V Sport Plus Suomi.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="V Sport + HD">
 					<Provider>Thor 0.8W</Provider>
 				</Item>
@@ -3442,18 +3455,6 @@
 					<Provider>Thor 0.8W</Provider>
 				</Item>
 			<File>V Sport Ultra HD.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="V Sport Urheilu HD">
-					<Provider>Thor 0.8W</Provider>
-				</Item>
-			<File>V Sport Urheilu HD.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="V Sport Urheilu">
-					<Provider>Astra 4.8E</Provider>
-				</Item>
-			<File>V Sport Urheilu.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="VGTV HD">
