@@ -3457,6 +3457,14 @@
 			<File>V Sport Ultra HD.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="V Sport Vinter HD" />
+			<File>V Sport Vinter HD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="V Sport Vinter" />
+			<File>V Sport Vinter.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="VGTV HD">
 					<Provider>Thor 0.8W</Provider>
 				</Item>
