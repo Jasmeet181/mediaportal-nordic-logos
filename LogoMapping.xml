@@ -30,6 +30,10 @@
 			<File>24nt Television.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="360" />
+			<File>360.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="3sat" />
 			<File>3sat.png</File>
 		</Channel>
@@ -1013,6 +1017,10 @@
 			<File>Hayat.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="HBO Max" />
+			<File>HBO Max.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="HBO Nordic" />
 			<File>HBO Nordic.png</File>
 		</Channel>
@@ -1285,6 +1293,10 @@
 			<File>Kanal Syd.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="KotiTV" />
+			<File>KotiTV.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Kral TV" />
 			<File>Kral TV.png</File>
 		</Channel>
@@ -1336,6 +1348,10 @@
 					<Provider>Thor 0.8W</Provider>
 				</Item>
 			<File>Liv.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Livechat.fi" />
+			<File>Livechat.fi.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Lokal TV Uddevalla" />
@@ -2714,10 +2730,6 @@
 					<Provider>Astra 4.8E</Provider>
 				</Item>
 			<File>TV 2 Zulu.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="TV 360" />
-			<File>TV 360.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="TV Agder" />
