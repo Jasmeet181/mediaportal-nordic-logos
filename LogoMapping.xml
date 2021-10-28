@@ -2,7 +2,7 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
-		26/10/2021 HBO Nordic renamed to HBO Max
+		01/11/2021 Naturkanal1 launches
 		01/11/2021 V Sport Hockey/HD renamed to V Sport Vinter/HD
 		-->
 		<!--
@@ -1021,10 +1021,6 @@
 			<File>HBO Max.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="HBO Nordic" />
-			<File>HBO Nordic.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="Heim TV" />
 				<Item Name="Heim">
 					<Provider>Thor 0.8W</Provider>
@@ -1540,6 +1536,10 @@
 					<Provider>Digita</Provider>
 				</Item>
 			<File>National Geographic.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Naturkanal1" />
+			<File>Naturkanal1.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Nautical Channel" />
