@@ -2,8 +2,6 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
-		01/11/2021 Naturkanal1 launches
-		01/11/2021 V Sport Hockey/HD renamed to V Sport Vinter/HD
 		-->
 		<!--
 		TV3 Sport DK/SE conflict
@@ -3362,19 +3360,6 @@
 			<File>V Sport Golf.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="V Sport Hockey HD (S)">
-					<Provider>Thor 0.8W</Provider>
-				</Item>
-				<Item Name="V Sport Hockey HD">
-					<Provider>Astra 4.8E</Provider>
-				</Item>
-			<File>V Sport Hockey HD.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="V Sport Hockey" />
-			<File>V Sport Hockey.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="V Sport Live 1">
 					<Provider>Astra 4.8E</Provider>
 				</Item>
@@ -3469,7 +3454,12 @@
 			<File>V Sport Ultra HD.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="V Sport Vinter HD" />
+				<Item Name="V Sport Vinter HD (S)">
+					<Provider>Thor 0.8W</Provider>
+				</Item>
+				<Item Name="V Sport Vinter HD">
+					<Provider>Astra 4.8E</Provider>
+				</Item>
 			<File>V Sport Vinter HD.png</File>
 		</Channel>
 		<Channel>
