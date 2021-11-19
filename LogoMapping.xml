@@ -2,6 +2,7 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
+		00/00/2022 Xee renamed to See
 		-->
 		<!--
 		TV3 Sport DK/SE conflict
@@ -629,6 +630,10 @@
 					<Provider>Thor 0.8W</Provider>
 				</Item>
 			<File>DK4.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="DKsyd TV" />
+			<File>DKsyd TV.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="DNA-infokanava 2" />
@@ -1959,6 +1964,10 @@
 		<Channel>
 				<Item Name="Sat7" />
 			<File>Sat7.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="See" />
+			<File>See.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="SF-Kanalen">
