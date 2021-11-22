@@ -2772,11 +2772,11 @@
 				<Item Name="TV 2 / Midt-Vest">
 					<Provider>Thor 0.8W</Provider>
 				</Item>
-				<Item Name="TV Midt Vest" />
+				<Item Name="TV Midtvest" />
 				<Item Name="TV2 Midt-Vest">
 					<Provider>Astra 4.8E</Provider>
 				</Item>
-			<File>TV Midt Vest.png</File>
+			<File>TV Midtvest.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="TV Modum" />
